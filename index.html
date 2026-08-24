@@ -107,6 +107,31 @@
       font-weight: 650;
     }
 
+    .topbar-tools {
+      display: flex;
+      align-items: center;
+      gap: 11px;
+    }
+
+    .link-toggle {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      color: #73788a;
+      font-size: 13px;
+      font-weight: 650;
+      cursor: pointer;
+      user-select: none;
+    }
+
+    .link-toggle input {
+      width: 16px;
+      height: 16px;
+      margin: 0;
+      accent-color: var(--purple);
+      cursor: pointer;
+    }
+
     .prompt-area {
       min-height: 145px;
       display: flex;
@@ -427,6 +452,57 @@
       box-shadow: 0 8px 18px rgba(116, 103, 232, .22);
     }
 
+    .link-card {
+      text-align: left;
+    }
+
+    .link-card .results-title {
+      font-size: 23px;
+      text-align: center;
+    }
+
+    .link-label {
+      display: block;
+      margin: 24px 0 9px;
+      color: #555b6f;
+      font-size: 14px;
+      font-weight: 700;
+    }
+
+    .link-input {
+      width: 100%;
+      height: 50px;
+      padding: 0 15px;
+      border: 1.5px solid var(--line);
+      border-radius: 13px;
+      outline: none;
+      background: #fbfbfd;
+      color: var(--ink);
+      font: inherit;
+      transition: border-color .2s, box-shadow .2s;
+    }
+
+    .link-input:focus {
+      border-color: var(--purple);
+      background: white;
+      box-shadow: 0 0 0 4px rgba(116, 103, 232, .11);
+    }
+
+    .link-help {
+      margin: 9px 2px 0;
+      color: #9699a8;
+      font-size: 12px;
+      line-height: 1.55;
+    }
+
+    .link-error {
+      min-height: 20px;
+      margin: 9px 2px 0;
+      color: var(--red);
+      font-size: 13px;
+      font-weight: 650;
+    }
+
     @media (max-width: 560px) {
       .app {
         width: min(94vw, 660px);
@@ -435,7 +511,14 @@
       }
 
       .topbar {
+        align-items: flex-start;
         margin-bottom: 30px;
+      }
+
+      .topbar-tools {
+        align-items: flex-end;
+        flex-direction: column;
+        gap: 7px;
       }
 
       .answer-row {
@@ -470,7 +553,13 @@
         <span class="brand-mark">W</span>
         <span>WordLoop</span>
       </div>
-      <div class="counter" id="counter" aria-live="polite">尚未导入词库</div>
+      <div class="topbar-tools">
+        <label class="link-toggle">
+          <input id="linkImportCheckbox" type="checkbox">
+          <span>链接导入</span>
+        </label>
+        <div class="counter" id="counter" aria-live="polite">尚未导入词库</div>
+      </div>
     </div>
 
     <section class="prompt-area" aria-live="polite">
@@ -535,6 +624,29 @@
     </section>
   </div>
 
+  <div class="results-overlay" id="linkImportModal" role="dialog" aria-modal="true" aria-labelledby="linkImportTitle" hidden>
+    <section class="results-card link-card">
+      <h2 class="results-title" id="linkImportTitle">从链接导入词库</h2>
+      <form id="linkImportForm">
+        <label class="link-label" for="linkUrlInput">词库文件链接：</label>
+        <input
+          class="link-input"
+          id="linkUrlInput"
+          type="url"
+          placeholder="https://example.com/word.txt"
+          autocomplete="url"
+          required
+        >
+        <p class="link-help">链接应指向 TXT 词库文件，并允许浏览器跨域访问（CORS）。</p>
+        <p class="link-error" id="linkImportError" aria-live="assertive"></p>
+        <div class="results-actions">
+          <button class="close-results-button" id="cancelLinkImportButton" type="button">取消</button>
+          <button class="restart-button" id="confirmLinkImportButton" type="submit">确定</button>
+        </div>
+      </form>
+    </section>
+  </div>
+
   <script>
     (() => {
       "use strict";
@@ -542,8 +654,10 @@
       const elements = {
         answerForm: document.querySelector("#answerForm"),
         answerInput: document.querySelector("#answerInput"),
+        cancelLinkImportButton: document.querySelector("#cancelLinkImportButton"),
         closeResultsButton: document.querySelector("#closeResultsButton"),
         confirmButton: document.querySelector("#confirmButton"),
+        confirmLinkImportButton: document.querySelector("#confirmLinkImportButton"),
         counter: document.querySelector("#counter"),
         directionLabel: document.querySelector("#directionLabel"),
         errorCount: document.querySelector("#errorCount"),
@@ -552,6 +666,11 @@
         hint: document.querySelector("#hint"),
         hintCount: document.querySelector("#hintCount"),
         importButton: document.querySelector("#importButton"),
+        linkImportCheckbox: document.querySelector("#linkImportCheckbox"),
+        linkImportError: document.querySelector("#linkImportError"),
+        linkImportForm: document.querySelector("#linkImportForm"),
+        linkImportModal: document.querySelector("#linkImportModal"),
+        linkUrlInput: document.querySelector("#linkUrlInput"),
         nextButton: document.querySelector("#nextButton"),
         partOfSpeech: document.querySelector("#partOfSpeech"),
         previousButton: document.querySelector("#previousButton"),
@@ -619,7 +738,9 @@
         const showEnglish = card.promptLanguage === "english";
         const needsEnglish = !showEnglish;
 
-        elements.wordDisplay.textContent = showEnglish ? card.entry.english : card.entry.chinese;
+        elements.wordDisplay.textContent = showEnglish
+          ? card.entry.english.replace(/-/g, " ")
+          : card.entry.chinese;
         elements.wordDisplay.classList.remove("is-empty");
         elements.directionLabel.textContent = showEnglish ? "英译中" : "中译英";
         elements.hint.textContent = showEnglish ? "请输入对应的中文意思" : "请输入对应的英文单词";
@@ -789,13 +910,86 @@
         }
       }
 
+      function showLinkImport() {
+        elements.linkImportError.textContent = "";
+        elements.linkUrlInput.value = "";
+        elements.linkImportModal.hidden = false;
+        elements.linkUrlInput.focus();
+      }
+
+      function closeLinkImport() {
+        if (elements.linkImportModal.dataset.loading === "true") return;
+        elements.linkImportModal.hidden = true;
+        elements.importButton.focus();
+      }
+
+      function linkedFileName(url) {
+        let name = url.pathname.split("/").filter(Boolean).at(-1) || "word.txt";
+        try {
+          name = decodeURIComponent(name);
+        } catch (error) {
+          name = "word.txt";
+        }
+        return name.toLowerCase().endsWith(".txt") ? name : `${name}.txt`;
+      }
+
+      async function importFromLink(event) {
+        event.preventDefault();
+        elements.linkImportError.textContent = "";
+
+        let url;
+        try {
+          url = new URL(elements.linkUrlInput.value.trim());
+          if (!['http:', 'https:'].includes(url.protocol)) throw new Error("unsupported protocol");
+        } catch (error) {
+          elements.linkImportError.textContent = "请输入有效的 HTTP 或 HTTPS 链接";
+          elements.linkUrlInput.focus();
+          return;
+        }
+
+        elements.linkImportModal.dataset.loading = "true";
+        elements.linkUrlInput.disabled = true;
+        elements.cancelLinkImportButton.disabled = true;
+        elements.confirmLinkImportButton.disabled = true;
+        elements.confirmLinkImportButton.textContent = "导入中…";
+
+        try {
+          const response = await fetch(url.href, { cache: "no-store" });
+          if (!response.ok) throw new Error(`下载失败（HTTP ${response.status}）`);
+
+          const buffer = await response.arrayBuffer();
+          const linkedFile = {
+            name: linkedFileName(url),
+            arrayBuffer: async () => buffer
+          };
+          const imported = await importVocabulary(linkedFile);
+
+          if (!imported) {
+            elements.linkImportError.textContent = elements.feedback.textContent || "链接内容不是有效词库";
+            return;
+          }
+
+          elements.linkImportModal.hidden = true;
+        } catch (error) {
+          elements.linkImportError.textContent = error.message.startsWith("下载失败")
+            ? error.message
+            : "无法下载词库，请检查链接以及跨域访问（CORS）设置";
+        } finally {
+          elements.linkImportModal.dataset.loading = "false";
+          elements.linkUrlInput.disabled = false;
+          elements.cancelLinkImportButton.disabled = false;
+          elements.confirmLinkImportButton.disabled = false;
+          elements.confirmLinkImportButton.textContent = "确定";
+        }
+      }
+
       async function importVocabulary(file) {
-        if (!file) return;
+        if (!file) return false;
 
         if (!file.name.toLowerCase().endsWith(".txt")) {
           elements.feedback.textContent = "请选择 TXT 格式的词库文件";
           elements.feedback.className = "feedback error";
-          return;
+          return false;
         }
 
         try {
@@ -805,7 +999,7 @@
           if (!entries.length) {
             elements.feedback.textContent = "没有读取到有效单词，请检查每行是否为“英文 中文 词性”";
             elements.feedback.className = "feedback error";
-            return;
+            return false;
           }
 
           vocabulary = entries;
@@ -827,16 +1021,26 @@
             elements.feedback.textContent = `已从 ${file.name} 导入 ${entries.length} 个词`;
             elements.feedback.className = "feedback success";
           }
+          return true;
         } catch (error) {
           elements.feedback.textContent = "文件读取失败，请重新选择词库";
           elements.feedback.className = "feedback error";
+          return false;
         } finally {
           elements.fileInput.value = "";
         }
       }
 
-      elements.importButton.addEventListener("click", () => elements.fileInput.click());
+      elements.importButton.addEventListener("click", () => {
+        if (elements.linkImportCheckbox.checked) {
+          showLinkImport();
+        } else {
+          elements.fileInput.click();
+        }
+      });
       elements.fileInput.addEventListener("change", (event) => importVocabulary(event.target.files[0]));
+      elements.linkImportForm.addEventListener("submit", importFromLink);
+      elements.cancelLinkImportButton.addEventListener("click", closeLinkImport);
       elements.answerForm.addEventListener("submit", (event) => {
         event.preventDefault();
         checkAnswer();
@@ -854,8 +1058,16 @@
       elements.resultsModal.addEventListener("click", (event) => {
         if (event.target === elements.resultsModal) closeResults();
       });
+      elements.linkImportModal.addEventListener("click", (event) => {
+        if (event.target === elements.linkImportModal) closeLinkImport();
+      });
       document.addEventListener("keydown", (event) => {
-        if (event.key === "Escape" && !elements.resultsModal.hidden) closeResults();
+        if (event.key !== "Escape") return;
+        if (!elements.linkImportModal.hidden) {
+          closeLinkImport();
+        } else if (!elements.resultsModal.hidden) {
+          closeResults();
+        }
       });
     })();
   </script>
