@@ -592,7 +592,7 @@
       <button class="secondary-button" id="nextButton" type="button" disabled>下一个 →</button>
     </div>
 
-    <p class="file-note">每行格式：<code>apple 苹果 n.</code>（第三列词性可选）</p>
+    <p class="file-note">每行格式：<code>apple|苹果|n.</code></p>
     <input id="fileInput" type="file" accept=".txt,text/plain">
   </main>
 
@@ -757,13 +757,7 @@
 
       function normalizeAnswer(value, isEnglish) {
         const normalized = value.trim().replace(/\s+/g, " ");
-        if (isEnglish) {
-          return normalized
-            .replace(/\s*-\s*/g, "-")
-            .replace(/\s+/g, "-")
-            .toLocaleLowerCase("en");
-        }
-        return normalized.replace(/;/g, "；");
+        return isEnglish ? normalized.toLocaleLowerCase("en") : normalized.replace(/;/g, "；");
       }
 
       function checkAnswer() {
@@ -873,21 +867,13 @@
           const line = rawLine.trim();
           if (!line) return;
 
-          const match = line.match(/^(\S+)\s+(.+)$/);
-          if (!match) {
+          const columns = line.split("|").map((column) => column.trim());
+          if (columns.length !== 3 || columns.some((column) => !column)) {
             invalidLines.push(index + 1);
             return;
           }
 
-          const details = match[2].trim();
-          const partOfSpeechPattern = "(?:adj|adv|prep|conj|pron|num|art|phr|vt|vi|n|v)\\.";
-          const thirdColumn = details.match(new RegExp(`^(.+?)\\s+((?:${partOfSpeechPattern})(?:/${partOfSpeechPattern})*|-)$`, "i"));
-          const chinese = thirdColumn ? thirdColumn[1].trim() : details;
-          const partOfSpeech = thirdColumn ? thirdColumn[2] : "";
-          const english = match[1]
-            .trim()
-            .replace(/-/g, " ")
-            .replace(/\s+/g, " ");
+          const [english, chinese, partOfSpeech] = columns;
 
           entries.push({
             id: `${index}-${english}-${chinese}`,
@@ -999,7 +985,7 @@
           const { entries, invalidLines } = parseVocabulary(decodeTextFile(buffer));
 
           if (!entries.length) {
-            elements.feedback.textContent = "没有读取到有效单词，请检查每行是否为“英文 中文 词性”";
+            elements.feedback.textContent = "没有读取到有效单词，请检查每行是否为“英文|中文|词性”";
             elements.feedback.className = "feedback error";
             return false;
           }

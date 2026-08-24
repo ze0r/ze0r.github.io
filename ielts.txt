@@ -1,2753 +1,2753 @@
-foods 食品(复) n.
-food-intake 进食 phr.
-food-chain 食物链 phr.
-food-containers 食品容器 phr.
-food-supply 食品供应 phr.
-fresh-food 新鲜食物 phr.
-frozen-food 冷冻食品 phr.
-preparing-food 做饭 phr.
-diet 日常饮食 n.
-eat 吃 v.
-meal 餐 n.
-evening-meals 晚餐 phr.
-breakfast 早餐 n.
-lunch 午餐 n.
-dinner 晚餐 n.
-dining-room 餐厅 phr.
-hunger 饥饿 n.
-starvation 饥饿 n.
-low-nutrition 低营养 phr.
-restaurant 餐馆 n.
-catering 餐饮服务 n.
-takeaway 外卖 -
-picnic 野餐 n.
-eating-patterns 饮食习惯(复) phr.
-tastes 滋味(复) n.
-scent 香味 n.
-smell 气味 n.
-odour 气味；臭气；声誉 n.
-flavor 香料；滋味 n.
-ingredients 成分(复) n.
-salt 盐 n.
-sugar 糖 n.
-olive-oil 橄榄油 phr.
-acid 酸的；酸性的 adj.
-sweetener 甜味剂 n.
-antiseptic 防腐剂；抗菌剂 n.
-vegetarian 素食者 n.
-kitchen 厨房 -
-kitchen-area 厨房区域 phr.
-cook 烹饪 v.
-cooking 做饭 n.
-cooker 炊具 n.
-cookery 烹饪技术 n.
-shelf 架子 n.
-rack 架子 n.
-lids 盖子(复) n.
-overfill 把......装满 vt.
-container 容器 n.
-cup 杯子 n.
-tank 罐；箱 n.
-bucket 桶 n.
-boiler 锅炉；烧水壶 n.
-pot 把......装罐 v.
-pottery 陶器 n.
-basket 篮子 n.
-cut 切开 v.
-knife 刀 n.
-axe 斧子 n.
-stick 棒子 n.
-long-stick 长棍子 phr.
-brushes 刷子(复) n.
-plates 盘子；片状硬物体(复) n.
-spoon 勺子 n.
-apron 围裙 n.
-oven 烤箱 n.
-microwave 微波炉 n.
-doublegrill 双面烤箱 -
-fire 火 n.
-fireplaces 壁炉 n.
-firewood 柴火 n.
-fireworks 烟花(复) n.
-fire-blanket 灭火毯 phr.
-fire-drill 消防演习 phr.
-gas 气体 n.
-gas-tanks 煤气罐 phr.
-natural-gas 天然气 phr.
-fridge 冰箱 n.
-freezer 冷冻柜 n.
-dishwasher 洗碗机 -
-rice 米 n.
-smash 粉碎 v.
-starch 淀粉 n.
-grind-flour 磨粉 phr.
-powder 粉末 n.
-potatoes 土豆(复) n.
-carrots 胡萝卜(复) n.
-corn 玉米 n.
-meat 肉 n.
-fresh-meat 新鲜肉 phr.
-seafood 海鲜 n.
-chicken 鸡肉 n.
-egg 鸡蛋 n.
-fruit 水果 n.
-fruit-tree 果树 phr.
-fruit-cake 水果饼 phr.
-apple 苹果 n.
-coconut 椰子 n.
-banana 香蕉 n.
-lemon 柠檬 n.
-orange 橘子；橘黄色 n.
-tomatoes 番茄(复) n.
-cake 蛋糕 n.
-fish-cake 炸鱼饼 phr.
-pizza 比萨饼 n.
-pizza-boxes 比萨盒 phr.
-boxes 盒子(复) n.
-sandwiches 三明治(复) n.
-vegetable-burger 蔬菜汉堡 phr.
-salads 沙拉(复) n.
-cheese 芝士 n.
-honey 蜂蜜 n.
-snacks 小吃(复) n.
-high-energy-snack 高能量食物 phr.
-refreshments 小吃(复) n.
-chocolate 巧克力 n.
-gum 口香糖；树胶 n.
-nuts 坚果(复) n.
-organic 有机的 adj.
-nutrition 营养 n.
-protein 蛋白质 n.
-vitamin-A 维生素A phr.
-drink 饮料 n.
-drink-milk 喝牛奶 phr.
-drinks-and-snacks 饮料和小吃(复) phr.
-free-drink 免费饮料 phr.
-drinking 喝饮料 n.
-drinking-machines 饮水机 phr.
-bottle-water 瓶装水 phr.
-spring-water 矿泉水 phr.
-juice 果汁 -
-fruit-juice 果汁 phr.
-juice-bottles 果汁瓶 phr.
-apple-juice 苹果汁 phr.
-milk 牛奶 n.
-tea 茶 n.
-beer 啤酒 n.
-ice 冰 n.
-ice-pack 冰袋 phr.
-soup 汤 n.
-cafe 咖啡馆 n.
-coffee 咖啡 n.
-coffee-table 咖啡桌 phr.
-coffee-machine 咖啡机 phr.
-traffic 交通 n.
-traffic-flow 车流量 phr.
-traffic-noise 交通噪音 phr.
-transport 交通 n.
-public-transport 公共交通 phr.
-transport-service 交通服务 phr.
-transportation 交通工具 n.
-free-transportation 免费交通 phr.
-airline 航线 n.
-airplane 飞机 n.
-airport 机场 n.
-flight 航班 n.
-return-ticket 回程票 phr.
-train 火车 n.
-express-train 特快火车 phr.
-railway-station 火车站 phr.
-railway-line 铁路线 phr.
-railway-track 铁轨 phr.
-truck 卡车 n.
-boat 船 n.
-ship 船 n.
-ship-bell 船钟 phr.
-ship-building 造船 phr.
-shipping 航运 n.
-sailing 航行 n.
-bus 公交车 n.
-bus-stop 公交站 phr.
-bus-ticket 公交票 phr.
-special-buses 专用公车 phr.
-minibus 小型巴士 n.
-bus-service 公交服务 phr.
-shuttle 班车 n.
-passenger 乘客 n.
-station 车站 n.
-subway 地铁 n.
-highway 高速公路 n.
-lane 车道；小巷 n.
-taxi 出租车 n.
-cab 的士 n.
-helicopter 直升机 n.
-plane 飞机；平面 n.
-plane-science 飞行科学 phr.
-bicycle 自行车 n.
-bike 自行车 n.
-chain 链条 n.
-tickets 票(复) n.
-access 进入 n.
-check 检查；支票 v./n.
-lists 列表(复) n.
-checklist 清单 n.
-photographs 照片(复) n.
-photographic 摄影的 adj.
-take-photos 照相 phr.
-camera 相机 n.
-zoom 变焦 n.
-focus 中心点；焦距 n.
-flash-light 闪光灯 phr.
-flashing 闪烁的 adj.
-scenery 风景 n.
-view 风景；看待 n./v.
-lookout-point 观景点 phr.
-rural 乡下的 adj.
-village 乡村 n.
-country 乡下；国家 n.
-countryside-living 田园生活 phr.
-different-countries 不同的国家 phr.
-carnival 狂欢节 n.
-festival 节日 n.
-balloon 热气球 n.
-cable 缆线 n.
-cable-car 缆车 phr.
-climbing 攀爬 n.
-experience 体验，体会 n.
-memories 记忆(复) n.
-holiday 度假 n.
-national-holidays 公共假日 phr.
-vacation 度假 n.
-travelling 旅行 n.
-domestic 国内的 adj.
-overseas 海外的 adj.
-peak-season 旺季 phr.
-embassy 大使馆 n.
-visa 签证 n.
-passport 护照 n.
-passport-photos 护照照片(复) phr.
-personal-information 个人信息 phr.
-tour 观光 n.
-general-tour 一般性旅游 phr.
-tourism 旅游 n.
-tourists 游客(复) n.
-visits 参观(复) n.
-visitor 游客 n.
-guest 客人 n.
-group-trip 团体旅游 phr.
-guides 向导(复) n.
-hostel 旅社 n.
-motel 汽车旅馆 n.
-hotel 酒店 n.
-booking 预订 n.
-book-in-advanced 提前预订 phr.
-booking-form 预订表格 phr.
-reservation 预订 n.
-front 前面 n.
-front-desk 前台 phr.
-help-desk 服务台 phr.
-information-desk 问讯处 phr.
-reception 接待 n.
-receptionist 接待员 n.
-hospitality 款待 n.
-home-welcome 宾至如归 phr.
-unapproachable 不友好的 adj.
-waiter 服务员 n.
-waitress 女服务员 n.
-services 服务(复) n.
-service-manager 服务部经理 phr.
-room-service 客房服务 phr.
-satisfaction 满意度 n.
-satisfactory 令人满意的 adj.
-pleasure 愉快 n.
-feedback 反馈 n.
-comment-card 意见表；注解表 phr.
-card 卡片 n.
-card-index 卡片索引 phr.
-noisy 吵闹的 adj.
-loud-noises 大声喧哗 phr.
-complaints 投诉(复) n.
-apologize 道歉；认错 v.
-apology 道歉；认错 n.
-car 汽车 n.
-car-park 车位 phr.
-car-tyre 车胎 phr.
-high-car-taxes 高额车辆税 phr.
-race-car 赛车 phr.
-nitrogen 氮气 n.
-automobile 汽车 n.
-motor 汽车 n.
-caravan 房车 n.
-minivan 小型货车 n.
-drive 驾驶 v.
-test-drive 试驾 phr.
-driver 司机 n.
-driving 驾驶 n.
-license 执照 n.
-driving-license 驾照 phr.
-self-drive 驾驶自己的车(去度假)的 -
-beginner 初学者 n.
-beginning 开始 n.
-basic 基本的 adj.
-navigate 驾驶；定位 v.
-navigational 导航的 adj.
-pilots 领航员(复) n.
-turn 转向 v.
-orientation 方向 n.
-direction 方向 n.
-downhill 下坡的 adj.
-speed 速度 n.
-uncontrolled 无法控制的 adj.
-rush 匆忙 n.
-hurry-up 催促 phr.
-radar 雷达 n.
-limit 限制 v.
-limitation 限制；局限 n.
-slow 缓慢的 adj.
-warning 警告 n.
-signal 信号 n.
-instruction 指令 n.
-dictation 命令 n.
-rule 规则 n.
-antifreeze 防冻液 n.
-petrol 汽油 n.
-petrol-station 加油站 phr.
-gas-station 加油站 phr.
-oil 石油 n.
-oil-filter 油滤器 phr.
-engine 发动机 n.
-automatic 自动换挡汽车 n.
-tyre 轮胎 n.
-wheel 轮子 n.
-back-wheel 后轮 phr.
-wheelchair 轮椅 n.
-seat 座位 n.
-child-seat 儿童座椅 phr.
-seating 座位 n.
-parking 停车位 n.
-parking-space 停车位 phr.
-free-parking 免费停车 phr.
-disability 残疾 n.
-disable-people 残疾人 phr.
-blind 失明的 adj.
-physical-changes 身体变化(复) phr.
-internal-clock 生物钟 phr.
-sleep 睡觉 n.
-sleeping-bag 睡袋 phr.
-sleeping-sickness 嗜睡症 phr.
-sleeping-pills 安眠药 phr.
-health 健康 n.
-health-care 健康护理 phr.
-health-service 公共医疗服务 phr.
-health-check 体检 phr.
-health-department 卫生部 phr.
-health-benefits 健康上的益处(复) phr.
-unhealthy 不健康的 adj.
-fitness 健康 n.
-age 使变老 v.
-aging 老龄化 n.
-lifespan 寿命 n.
-life-cycle 生命周期 phr.
-lifestyle 生活方式 n.
-life-science 生命科学 phr.
-quality-of-life 生活质量 phr.
-metabolism 新陈代谢 n.
-digest 消化 v.
-digestion 消化 n.
-digestive 消化的 adj.
-body-shape 体型 phr.
-body-fluid 体液 phr.
-body-language 肢体语言 phr.
-back 背部 n.
-back-problem 背部问题 phr.
-leg 腿 n.
-leg-room 腿部空间 phr.
-feet 双脚(复) n.
-footprints 脚步(复) n.
-footpath 人行道 n.
-knee 膝盖 n.
-arm 臂，手臂；武器 n.
-hand 手 n.
-finger 手指 n.
-head 头 n.
-headaches 头疼(复) n.
-faces 脸部(复) n.
-face-painting 脸部彩绘 phr.
-hair 头发 n.
-skin 皮肤 n.
-jaw 下巴 n.
-neck 脖子 n.
-necklace 项链 n.
-teeth 牙齿(复) n.
-toothache 牙疼 n.
-tongue 舌头 n.
-brain 大脑 n.
-eye 眼睛 n.
-eyedrops 眼药水(复) n.
-eye-contacts 眼神交流 phr.
-eyesight 视力 n.
-hearing 听力 n.
-listening 听力 n.
-voice 嗓音 n.
-clear 清晰的 adj.
-clear-voice 清晰嗓音 phr.
-kidney 肾 n.
-heart 心脏 n.
-heart-rate 心率 phr.
-heart-disease 心脏病 phr.
-lungs 肺(复) n.
-breathe 呼吸 v.
-stomach 胃 n.
-blood 血 n.
-red-blood-cells 血红细胞(复) phr.
-bone 骨头 n.
-mental 心理的；精神的 adj.
-mental-ability 心智能力 phr.
-emotion 情感 n.
-emotional 情感的 adj.
-rationally 理性地 adv.
-moods 心情(复) n.
-character 性格 n.
-personality 个性 n.
-influence 影响 n.
-negative 消极的 adj.
-negative-affect 消极情绪 phr.
-negative-thinking 负面思考 phr.
-opposite 反面 n.
-against 反对 prep.
-passive 消极的；冷漠的 adj.
-corrupt 堕落的 adj.
-pressure 压力 n.
-stress 压力 n.
-stressful 有压力的 adj.
-stuck 被......困住的 adj.
-depression 沮丧；抑郁 n.
-frustration 沮丧 n.
-discourage 使泄气 v.
-encourage 鼓励 v.
-useless 无用的 adj.
-horror 恐惧 n.
-scare 恐惧 n.
-fear 害怕 n.
-tolerance 忍耐 n.
-lonely 寂寞的；孤独的 adj.
-isolation 孤立 n.
-unsocial 不合群的 adj.
-independence 独立 n.
-escape 逃离，躲过 v.
-tears 眼泪(复) n.
-torn 撕裂 v.
-sensitive 敏感的 adj.
-shame 羞愧 n.
-boring 无聊的 adj.
-virus 病毒 n.
-infection 感染；传染 n.
-diseases 疾病(复) n.
-illness 疾病 n.
-uncomfortable 不舒服的 adj.
-cold 感冒 n.
-flu 流感 n.
-delicate 纤弱的 adj.
-pain 疼痛 n.
-muscle-pain 肌肉疼痛 phr.
-injury 损伤 n.
-sports-injury 运动损伤 phr.
-emergency 紧急情况 n.
-accident 事故，意外 n.
-ambulance 救护车 n.
-first-aid-kit 急救包 phr.
-hospital 医院 n.
-doctor 医生 n.
-nurse 护士 n.
-nursing 护理 n.
-dentist 牙医 n.
-psychologist 心理学家 n.
-description 描述 n.
-detail 详细 n.
-detail-information 详细信息 phr.
-medication 药物 n.
-medicine 药 n.
-natural-medicine 中草药 phr.
-medical 医学的；医药的 adj.
-medical-centre 医疗中心 phr.
-drug 药物 n.
-poison 毒药；毒物 n.
-oral 口试 n.
-antibiotics 抗生素 n.
-painkiller 止疼片 n.
-therapy 治疗 n.
-treatment 治疗 n.
-plastic-surgery 整形手术 phr.
-solution 解决方法 n.
-immune 有免疫力的 adj.
-prevention 预防 n.
-implant 将(人造器官等)植入 v.
-lose-weight 减肥 phr.
-rest 休息 v.
-rest-area 休息区 phr.
-restroom 休息室 n.
-smile 微笑 n.
-relaxation 放松 n.
-stimulation 激励 n.
-aspiration 强烈的愿望 n.
-motivation 动机 n.
-address 地址 n.
-apartment 公寓 n.
-flat 公寓 n.
-housing 住宅 n.
-house-key 房门钥匙 phr.
-entrance 入口 n.
-door 门 n.
-door-to-door 门到门服务 phr.
-back-door 后门 phr.
-gate 大门 n.
-side-gate 侧门 phr.
-handle 门把手 n.
-lock 锁 n.
-locker 锁柜 n.
-lockup-garage 带锁车库 phr.
-selflocking 自动上锁 -
-code 密码 n.
-password 密码 n.
-elevator 电梯 n.
-stairs 楼梯(复) n.
-staircases 楼梯(复) n.
-upstairs 楼上(复) n.
-stair-lift 楼梯升降机 phr.
-roof 屋顶 n.
-dome 圆屋顶 n.
-corner 角落 n.
-layout 布局 n.
-ground-plan 草图 phr.
-structure 结构 n.
-structured 有结构的 adj.
-genetic-structure 遗传结构 phr.
-living-room 客厅 n.
-double-room 双人房 phr.
-changing-room 更衣室 phr.
-green-room 绿色房间 phr.
-spare-room 客房 phr.
-spare 备用的 adj.
-lounge 客厅 n.
-cabin 小屋 n.
-cabin-key 客舱钥匙 phr.
-studio 工作室 n.
-balcony 阳台 n.
-terrace 阳台 n.
-bedroom 卧室 n.
-bed-sheet 床单 n.
-queen-size 双人床 phr.
-bath 洗澡；泡澡 v.
-bathroom 浴室 n.
-toilet 厕所 n.
-basement 地下室 n.
-garage 车库 n.
-warehouse 仓库 n.
-storage-space 储藏室 phr.
-fence 围墙 n.
-barrier 屏障；障碍 n.
-floor 地板 n.
-ground 地面 n.
-living-expense 生活开销 phr.
-clean 干净的 adj.
-cleanest 最清洁的 adj.
-clean-product 清洁用品 phr.
-clean-material 清洁材料 phr.
-clean-machine 清洁机器 phr.
-waste 浪费 n.
-waste-disposal 废弃处置 phr.
-green-waste 可回收垃圾 phr.
-rubbish 垃圾 n.
-trash 垃圾 n.
-garbage 垃圾 n.
-dust-bag 集尘袋 phr.
-reusable 可重复使用的 adj.
-reusable-bag 环保袋 phr.
-water-pipe 水管 phr.
-pipe 管道 n.
-drain 排水 v.
-pump 泵；打气筒 n.
-pump-water 用水泵抽水 phr.
-explode 爆炸 v.
-explosion 爆炸 n.
-leak 漏洞 n.
-gap 间隙 n.
-request 请求 n.
-require 要求 v.
-demand 需求 n.
-contact 联系 v.
-contact-number 联系电话 phr.
-maintenance 维护 n.
-replacement 替换 n.
-change 改变 v.
-repair 修理 v.
-free-repair 免费修理 phr.
-repaired-cost 修理成本 phr.
-carpenter 木匠 n.
-seasoned 风干的 adj.
-polish 抛光 v.
-board 板子 n.
-decoration 装潢 n.
-equipment 工具 n.
-tools 工具(复) n.
-traditional-tool 传统工具 phr.
-scaffold 脚手架 n.
-ladder 梯子 n.
-glue 胶水 n.
-grease 油膏 n.
-wires 电线(复) n.
-indoor 在室内的 adj.
-facilities 设备(复) n.
-ventilation-system 通风系统 phr.
-fan 风扇 n.
-aircondition 空调，空调器 n.
-central-heating 中央暖气 phr.
-cool 凉爽的 adj.
-heater 取暖器 n.
-water-heater 热水器 n.
-shower 洗澡 n.
-warm-bath 热水澡 phr.
-towel 毛巾 n.
-soap 肥皂 n.
-washbasin 面盆 n.
-light 光；灯 n.
-lighting 照明 n.
-lamp 灯 n.
-desk-lamp 台灯 phr.
-candle 蜡烛 n.
-bright 明亮的 adj.
-washing 洗 n.
-washing-machine 洗衣机 phr.
-laptop 笔记本电脑 n.
-batteries 电池(复) n.
-furniture 家具 n.
-unfurnished 无家具的 adj.
-table 桌子 n.
-long-table 长桌 phr.
-round-table 圆桌 phr.
-chair 椅子 n.
-armchair 扶手椅 n.
-mirror 镜子 n.
-window 窗户 n.
-window-glass 窗户玻璃 phr.
-window-view 窗景 phr.
-curtain 窗帘 n.
-glass 玻璃 n.
-glass-roof 玻璃顶 n.
-blanket 毯子 n.
-carpet 地毯 n.
-mat 垫子 n.
-application 应用；申请表 n.
-form 表格 n.
-application-form 申请表 phr.
-fill 填写 v.
-signature 签名 n.
-sign 标记 v.
-deadline 最后期限 n.
-name 名字 n.
-expectation 期望 n.
-expect 预期 v.
-decision 决定 n.
-accept 接受 v.
-acceptable 可接受的 adj.
-choice 选择 n.
-choose 选择 v.
-choosing 选择 v.
-select 选择 v.
-selection 选择 n.
-agencies 中介(复) n.
-agent 代理人；中介 n.
-Long-term 长期的 -
-contract 合同 n.
-agreement 协定；协议 n.
-lawyer 律师 n.
-law-department 法律部门 phr.
-law-firm 律所 phr.
-legal 法律的；合法的 adj.
-standard 标准 n.
-standard-grade 标准等级 phr.
-arrangement 安排；约定 n.
-regulation 规定 n.
-strict 严格的 adj.
-smoking 抽烟 n.
-nonsmoking 禁止吸烟 -
-smoke-alarm 烟雾报警器 phr.
-cigar 雪茄 n.
-advance 预付 v.
-neighbours 邻居 n.
-landlady 女房东 n.
-consume 消费 v.
-consumer 消费者 n.
-consumption 消费 n.
-customer 顾客 n.
-client 顾客 n.
-shopper 顾客 n.
-wallet 钱包 n.
-retail 零售 n.
-store 商店；存储 n./v.
-shop 商店 n.
-local-shop 本地商店 phr.
-shopping 购物 n.
-shopping-mall 购物中心 phr.
-department-store 百货商店 phr.
-booth 摊位 n.
-canteen 小卖部 n.
-grocery 杂货店 n.
-fast-food-shop 快餐店 phr.
-supermarket 超市 n.
-super 超级的 adj.
-bakery 面包房 n.
-barber-shop 理发店 phr.
-laundry 洗衣物的活 n.
-salesman 销售员 n.
-sales 销售额(复) n.
-leaflet 传单 n.
-delivery 快递；递送 n.
-commerce 商务；商业 n.
-commercial 商业的 adj.
-price 价格 n.
-estimate 估价；估计 v./n.
-evaluation 评价 n.
-fees 费用(复) n.
-cost 花费 v.
-cost-effective 精打细算 -
-costly 贵的 adj.
-pay 付款 v.
-payment 付款 n.
-goods 商品 n.
-products 产品(复) n.
-production 产品；产量 n.
-bar-code 条形码 phr.
-label 标签 n./v.
-sticker 贴纸 n.
-discount 折扣 n.
-bargain 便宜货 n.
-save 节省 v.
-savings 储蓄(复) n.
-special-offer 特价 phr.
-cheap 廉价的 adj.
-expensive 贵的 adj.
-fair 合理的 adj.
-refund 退款 n.
-families 家庭(复) n.
-families-life 家庭生活 phr.
-family-photo 全家福 phr.
-family-ticket 家庭票 phr.
-family-relationship 家庭关系 phr.
-family-member 家庭成员 phr.
-home 家 n.
-marriage 婚姻 n.
-wedding 婚礼；婚宴 n.
-couple 对，双；夫妇 n.
-pair 夫妻；一对 n.
-babies 婴儿(复) n.
-birth 出生 n.
-relationships 关系(复) n.
-link 链接 n.
-connected 有关系的 adj.
-relevant 紧密相关的 adj.
-generation 产生；一代人 n.
-brother-in-law 连襟 n.
-mother 母亲 n.
-uncle 叔叔 n.
-parent 父母 n.
-partner 搭档；配偶 n.
-grandfather 爷爷 n.
-grandmother 奶奶 n.
-gender 性别 n.
-boy 男孩 n.
-male 男性 n.
-female 女性；雌性 n.
-women 妇女(复) n.
-children 儿童(复) n.
-children-background 儿童背景 phr.
-children-mind 儿童的心智 phr.
-friend 朋友 n.
-friendly 友好的 adj.
-friendship 友谊 n.
-social 社会的 adj.
-society 社会 n.
-sociable 善于交际的 adj.
-social-event 社交活动 phr.
-social-interaction 社交沟通 phr.
-social-worker 社工 phr.
-social-skills 社交技巧(复) phr.
-social-information 社交信息 phr.
-social-activities 社交活动(复) phr.
-socialize 交际 v.
-people 人(复) n.
-individual 个人；个体 n.
-person 人 n.
-personal 个人 n.
-personal-officer 人事管理员 phr.
-wealthy 富有的 adj.
-wealthy-people 富人 phr.
-rich 富有的 adj.
-luxury 奢侈 n.
-poverty 贫困；贫穷 n.
-identity 身份 n.
-heroes 英雄(复) n.
-celebrities 名人(复) n.
-privacy 隐私 n.
-private 私有的；私人的 adj.
-private-property 私人财产 phr.
-junior 青少年 n.
-teenager 青少年 n.
-young 年轻的 adj.
-young-people 年轻人 phr.
-young-children 幼儿 phr.
-young-teenager (十几岁的)年轻人 phr.
-young-graduate 年轻毕业生 phr.
-youth 青春 n.
-maturity 成熟 n.
-adult 成年人 n.
-oldest 最老的 adj.
-old-people 老人 phr.
-senior 年长的 adj.
-peers 同辈；同伴(复) n.
-peer-group 同龄群体 phr.
-color 颜色 n.
-colour 彩色 n.
-coloured 彩色的 adj.
-colour-photos 彩色照片 phr.
-dark 黑暗的 adj.
-dark-blue 深黑色 phr.
-dark-and-light 黑暗与光明 phr.
-darkroom 暗房 n.
-blue 蓝色 n.
-yellow 黄色 n.
-grey 灰色的 adj.
-purple 紫色 n.
-red 红色 n.
-silver 银色 n.
-silver-cloth 银色布料 phr.
-silver-coin 银币 phr.
-metallic-grey 金属灰 phr.
-white 白色 n.
-white-board 白板 phr.
-green 绿色 n.
-hazel 淡褐色 n.
-appearance 外貌，外观 n.
-fashion 时尚 n.
-popular 受欢迎的 adj.
-prevalent 流行的 adj.
-trend 趋势 n.
-traditional-style 传统风格 phr.
-traditional 传统 n.
-cosmetics 化妆品(复) n.
-cream 乳霜 n.
-perfume 香水 n.
-wear 穿 v.
-clothes 衣服 n.
-clothing 衣服 n.
-clothing-section 服装节 phr.
-formal-clothing 正装 phr.
-outfits 套装(复) n.
-dress-code 着装规定 phr.
-fancy-dress 化装舞会服装 phr.
-uniform 制服；一致的 n./adj.
-bag 包 n.
-shoes 鞋子(复) n.
-washable-shoes 可水洗的鞋(复) phr.
-boots 靴子(复) n.
-socks 袜子(复) n.
-gloves 手套(复) n.
-hat 帽子 n.
-party-hat 聚会帽子 phr.
-helmet 头盔 n.
-pocket 口袋 n.
-shirt 衬衣 n.
-sweater 针织衫 n.
-jacket 夹克 n.
-trousers 裤子(复) n.
-jeans 牛仔裤(复) n.
-strap 皮带 n.
-line 线 n.
-string 细绳 n.
-rope 绳子 n.
-elastic 松紧带 n.
-stretching 弹性 n.
-financial 金融的 adj.
-finance-market 金融市场 phr.
-finance 金融 n.
-bank 银行 n.
-bank-statement 银行对账单 phr.
-bank-transfer 银行转账 phr.
-bill 账单 n.
-bookkeeping 记账 n.
-account 账目，报告，理由 n.
-accountant 会计师 n.
-accountable 负责任的 adj.
-cash 现金 n.
-cashier 收银员 n.
-cash-machine 自动取款机 phr.
-money 钱 n.
-money-lender 放贷人 phr.
-coin 硬币；创造 n./v.
-pound 英镑 n.
-cheque 支票 n.
-draft 汇票 n.
-credit 信用 n.
-credit-card 信用卡 phr.
-credit-check 信贷审查 phr.
-loan 贷款 n.
-cooperation-loan 合作贷款 phr.
-deposit 押金 n.
-economy 经济 n.
-economic 经济学的 adj.
-economic-depression 经济衰退 phr.
-economics-history 经济学史 phr.
-economical 经济的 adj.
-insurance 保险 n.
-insurance-company 保险公司 phr.
-house-insurance 住房保险 phr.
-assurance 人寿保险 n.
-life-assurance 人寿保险 n.
-investment 投资 n.
-reinvest 再投资 v.
-funding 资金 n.
-work 工作 n.
-working 工作 n.
-workforce 劳动力 n.
-workplace 车间 n.
-workshop 工作室 n.
-workload 工作量 n.
-worksheet 工作表 n.
-practical-work 实践工作 phr.
-worker 工人 n.
-former-worker 离职员工；前任员工 phr.
-labor 劳动力 n.
-staff 员工 n.
-comer 来者 n.
-employee 雇员 n.
-employer 雇主 n.
-unemployed 失业的 adj.
-job 工作 n.
-full-time 全职 phr.
-part-time 兼职 phr.
-interview 面试 n.
-interview-question 面试问题 phr.
-phone-interview 电话面试 phr.
-job-interview 求职面试 phr.
-interview-skills 面试技巧(复) phr.
-job-application 求职申请 phr.
-issue 发布 v.
-invitation 邀请 n.
-placement 安排 n.
-placement-test 定职测验 phr.
-hire 雇佣；租用 v.
-recruit 招募；新成员 v./n.
-retired 退休的 adj.
-dismiss 解散；解雇；驳回 v.
-reward 报酬；奖励 n.
-earn 收入 v.
-salary 工资 n.
-wages 工资(复) n.
-income 收入 n.
-low-income 低收入 phr.
-bonus 奖金 n.
-welfare 福利 n.
-allowance 补贴 n.
-compensation 补偿 n.
-sick-pay 病假津贴 phr.
-office 办公室 n.
-career-office (大学)就业指导办公室 phr.
-large-office 大办公室 phr.
-future-career 前程 phr.
-future 未来 n.
-training 培训 n.
-retrain 再培训 n.
-further-training 进修 phr.
-further 更远的 adj.
-promotion 促进；提升 n.
-city 城市 n.
-city-centre 市中心 phr.
-urban 城市 n.
-urban-area 城区 phr.
-regional 区域性的 adj.
-area 地区；区域 n.
-smaller-area 更小的地方 phr.
-district 地区 n.
-territory 领土 n.
-population 人口 n.
-resident 居民 n.
-citizen 市民 n.
-crowded 拥挤的 adj.
-large 大的 adj.
-large-scale 大规模的 phr.
-centre 中心 n.
-central 中心的 adj.
-central-location 核心区 phr.
-town 镇 n.
-town-hall 市政厅 phr.
-landmark 地标 n.
-public 公众的；公开的 adj.
-public-square 公共广场 phr.
-public-area 公共区域 phr.
-common 常见的 adj.
-common-room 公共休息室 phr.
-builder 建造师；创建者 n.
-building 建筑物 n.
-planner 规划师 n.
-construction 建造；构造 n.
-castle 城堡 n.
-churches 教堂(复) n.
-palace 宫殿 n.
-tower 塔；塔楼 n.
-hall 大厅 n.
-block 街区 n.
-square 广场 n.
-infrastructure 基础设施 n.
-utility 公共事业 n.
-road 道路 n.
-road-map 路线图 phr.
-smooth-road 平稳的道路 phr.
-smooth 平坦的 adj.
-street 街道 n.
-bridges 桥(复) n.
-tunnel 隧道 n.
-dam 水坝 n.
-harbour 港口 n.
-port 港口 n.
-native 本地的 adj.
-nonnative 引进的 -
-none 没有 adj.
-community 社区 n.
-local 当地的 adj.
-local-community 地方社区 phr.
-location 位置 n.
-position 位置 n.
-garden 花园 n.
-garden-tool 园林工具 phr.
-gardening 园艺 n.
-park 公园 n.
-government 政府 n.
-government-election 政府选举 phr.
-government-policy 政府政策 phr.
-government-agencies 政府机构(复) phr.
-authority 权威，权力 n.
-supervision 监管 n.
-ban 禁令，禁止 n.
-permit 许可 n.
-permission 许可 n.
-tax 税 n.
-immigrant 移民 n.
-immigration 移居 n.
-policy 政策 n.
-politics 政治，政治事务 n.
-politician 政治家 n.
-vote-right 投票权 phr.
-democratic 民主的 adj.
-president 总统 n.
-army 军队 n.
-soldier 战士 n.
-ranger 游击 n.
-weapon 武器 n.
-shoot 射击 v.
-gun 枪 n.
-alarm 警报 n.
-alarming-system 警报系统 phr.
-personal-alarm 个人警报器 phr.
-police 警察 n.
-police-helicopter 警用直升机 phr.
-crime 犯罪 n.
-prison 监狱 n.
-prisoner 囚犯 n.
-safe 安全的 adj.
-safety 安全 n.
-safeguard 保护 n.
-safety-regulation 安全法规 phr.
-safety-check 安全检查 phr.
-security 安全；保证 n.
-security-officer 保安 phr.
-guard 警卫 n.
-film 电影 n.
-filmed 拍摄 v.
-microfilm 微电影 n.
-comedy 喜剧 n.
-cartoon 动画片 n.
-comics 连环画(复) n.
-joke 笑话 n.
-humor 幽默 n.
-director 导演 n.
-actor 演员 n.
-movie 电影 n.
-theater 电影院 n.
-cinema 电影院 n.
-audience 观众；听众 n.
-music 音乐 n.
-write-music 写歌 phr.
-music-festival 音乐节 phr.
-music-concert 演唱会 phr.
-music-video 音乐录影带 phr.
-live-music 现场音乐 phr.
-background-music 背景音乐 phr.
-band 乐队 n.
-opera 歌剧 n.
-concert 音乐会 n.
-concert-room 音乐厅 phr.
-concert-hall 音乐厅 phr.
-singer 歌手 n.
-singing 唱歌 n.
-song 歌曲 n.
-jazz 爵士乐 n.
-composer 作曲家 n.
-composing 作曲 n.
-tape 磁带 n.
-recorder 录音机 n.
-tape-recorder 录音机 n.
-recording 录音；唱片 n.
-record 记录；档案 n.
-receiver 接收者；收音机 n.
-instrument 乐器；工具 n.
-drum 鼓 n.
-guitar 吉他 n.
-trumpet 喇叭；小号 n.
-piano 钢琴 n.
-flute 长笛 n.
-violin 小提琴 n.
-dance 舞蹈 n.
-dancing 跳舞 n.
-dance-class 舞蹈班 phr.
-dance-show 舞蹈表演 phr.
-drama 戏剧 n.
-arts 文科；艺术(复) n.
-art-gallery 画廊 n.
-artists 艺术家(复) n.
-drawing 绘画 n.
-portrait 肖像 n.
-realism 现实主义 n.
-realistic 现实的；实际的 adj.
-symbolism 象征主义 n.
-symbol 符号 n.
-graphic 图像；图形的 n./adj.
-design 设计 v.
-design-research 设计研究 phr.
-designer 设计师 n.
-photo 照片 n.
-picture 照片 n.
-picture-library 照片库 n.
-pattern 图案，模式 n.
-images 图像(复) n.
-painter 画家 n.
-painting 绘画 n.
-painting-class 绘画课 phr.
-gallery 画廊 n.
-open 打开 v.
-open-gallery 敞廊 phr.
-display 展示 v.
-exhibition 展览 n.
-exhibitor 展览者 n.
-literature 文学著作 n.
-story 故事 n.
-story-conference 故事会议 phr.
-culture 文化 n.
-cultural 文化的 adj.
-culture-context 文化背景 phr.
-culture-awareness 文化意识 phr.
-edit 编辑 v.
-editor 编辑 n.
-content 内容 n.
-context 语境；背景 n.
-poet 诗人 n.
-writing 写作 n.
-written 书面的 adj.
-written-language 书面语 phr.
-journal 日记 n.
-diaries 日记(复) n.
-word 词 n.
-vocabulary 词汇 n.
-grammar 语法 n.
-English 英语 n.
-language 语言 n.
-modern 现代的 adj.
-modern-language 现代语言 phr.
-campus 校园 n.
-notice-board 布告栏 phr.
-poster 海报 n.
-post-design 海报设计 phr.
-participation 参与；参加 n.
-activities 活动(复) n.
-enjoy 享受 v.
-enjoyable 有乐趣的 adj.
-excitement 兴奋 n.
-interest 兴趣 n.
-personal-interest 个人兴趣 phr.
-entertain 使有兴趣 v.
-entertainment 娱乐 n.
-passion 激情 n.
-leisure 休闲 n.
-parties 聚会(复) n.
-afterschool 课后的 adj.
-game 游戏 n.
-game-room 游戏室 phr.
-chess 国际象棋 n.
-play-area 游乐场 phr.
-playroom 游戏室 n.
-playground 操场 n.
-sports 运动(复) n.
-sports-equipment 运动装备 phr.
-sports-service 体育服务 phr.
-outdoor 户外 n.
-outside 外部 n.
-exercises 运动(复) n.
-sensible-exercise 合理的运动 phr.
-regular-exercise 常规训练 phr.
-regular 有规律的 adj.
-practice 练习 n.
-practical 实际的 adj.
-practical-course 实践课 phr.
-sports-centre 运动中心 phr.
-sports-hall 体育馆 phr.
-stadium 体育场 n.
-health-club 健康俱乐部 phr.
-fitness-centre 健身中心 phr.
-gym 健身房 n.
-club 俱乐部 n.
-club-office 俱乐部办公室 phr.
-clubroom 俱乐部聚会室 n.
-girl-club 女子俱乐部 phr.
-joining-fees 入会费(复) phr.
-member 会员 n.
-membership 会员 n.
-action 动作；作用 n.
-action-point 行动要点 phr.
-movement 移动 n.
-competition 竞赛 n.
-competitive 竞赛的 adj.
-ball 球 n.
-baseball 棒球 n.
-coaches 教练(复) n.
-baseball-coach 棒球教练 phr.
-football 足球 n.
-soccer 足球 n.
-stopwatch 码表 n.
-cycling 骑自行车 n.
-surfing 冲浪运动 n.
-wind-surfing 冲浪 phr.
-swim 游泳 n.
-swimming-pool 游泳池 phr.
-diving 潜水 n.
-mask 面具 n.
-diving-mask 潜水面罩 phr.
-rescue-diver 救援潜水员 phr.
-wetsuit 潜水服 n.
-snow-boarding 滑雪板 phr.
-golf 高尔夫 n.
-golf-court 高尔夫球场 phr.
-judo 柔道 n.
-yoga 瑜伽 n.
-tennis 网球 n.
-tennis-court 网球场 phr.
-table-tennis 乒乓球 phr.
-race 赛跑 n.
-runner 跑步者 n.
-walking 徒步 n.
-walking-boots 徒步鞋(复) phr.
-badge 徽章 n.
-prizes 奖品(复) n.
-weight 体重 n.
-weight-class 重量级 phr.
-lateralline 体测线；支线 -
-heavy 重的 adj.
-lifting 举起 v.
-strong 强壮的 adj.
-strength 力量 n.
-lecture 讲座(复) n.
-lecturer 演讲者 n.
-short 短的 adj.
-short-lecture 简短演讲 phr.
-speaker 演讲者；话筒 n.
-present 呈现；展示 v.
-presentation 演讲 n.
-slide 幻灯片 n.
-slide-presentation 幻灯片展示 phr.
-presentation-skill 演讲技巧 phr.
-presenting-result 展示结论 phr.
-seminar 讲座 n.
-seminar-group 讨论组 phr.
-seminar-room 研讨室 phr.
-representation 表现 n.
-performance 表现 n.
-effect 效果 n.
-effectiveness 有效性 n.
-efficiency 效果 n.
-efficient 有效率的 adj.
-project 项目，计划 n.
-project-background 课题背景 phr.
-project-outline 设计方案，项目大纲 phr.
-report 报告 n.
-report-finding 报告 phr.
-experiment 实验 n.
-microscope 显微镜 n.
-microradiogram X光片 -
-sample 样品；例子 n.
-mould 模具；塑造 n./v.
-model 模型 n.
-solid 固体 n.
-liquid 液体 n.
-fluid 液体 n.
-research 研究 n.
-research-approach 研究方法 phr.
-research-finding 研究成果 phr.
-researcher 研究员 n.
-field 领地；领域 n.
-fieldwork 实地调查 n.
-wrong 错误的 adj.
-incorrect 错误的 adj.
-error-message 错误信息 phr.
-mistake 错误 n.
-correction 修改 n.
-version 版本 n.
-format 格式 n.
-heading 标题 n.
-title 标题 n.
-topic 话题 n.
-subtopic 副标题 n.
-theory-chapter 理论章节 phr.
-theoretical 理论上的 adj.
-font 字型，字体 n.
-paragraphs 段落(复) n.
-section 部分 n.
-stages 阶段；步骤(复) n.
-order 顺序 n.
-analysis 分析；分解 n.
-attitude 态度 n.
-opinion 观点 n.
-statement-position 立场声明 phr.
-mission-statement 宣言 phr.
-explain 解释 v.
-explanation 解释 n.
-argument 论据；争论 n.
-fact 现实；证据 n.
-priority 优先 n.
-second 第二的；次要的 adj.
-summarize 总结 v.
-summary 概括的；概要的 adj.
-summary-report 总结报告 phr.
-conclusion 结论 n.
-outcome 结果 n.
-library 图书馆 n.
-reading 阅读 n.
-read-aloud 阅读 phr.
-read-difficulty 阅读障碍 phr.
-book 书本 n.
-bookshelf 书架 n.
-bookshop 书店 n.
-booklet 小册子 n.
-free-booklet 赠阅册子 phr.
-manual 手册 n.
-references 参考(复) n.
-reference-number 参考编号 phr.
-index 索引 n.
-categories 类别(复) n.
-classifying 归类 v.
-classification 分类 n.
-attachment 附件 n.
-article 文章 n.
-document 文档 n.
-documentation 文件 n.
-documentary 文件 n.
-file 文件 n.
-archive 存档；档案；档案室 n.
-handouts 讲义(复) n.
-handbook 手册 n.
-copy 复制 v.
-photocopy-shop 复印店 phr.
-photocopies 复印(复) n.
-printer 打印机 n.
-printing 打印 n.
-printing-press 印刷厂 phr.
-printing-technology 印刷工艺 phr.
-type 打字 v.
-typing 打字 n.
-paper 纸 n.
-paper-jam 卡纸 phr.
-pen 笔 -
-pencil 铅笔 n.
-ink 墨水 n.
-chalk 粉笔 n.
-textbook 教材 n.
-textbooks-allowance 教材补助 phr.
-textbook-lesson 教材课 phr.
-text-structure 文章结构 phr.
-knowledge-sharing 知识共享 phr.
-knowledge 知识 n.
-learn 学习 v.
-learner 学习者 n.
-learning 学习 n.
-learning-difficulty 学习障碍 phr.
-learning-style 学习风格 phr.
-learning-zone 学习专区 phr.
-distance-learning 远程教育 phr.
-professional 专业的 adj.
-professional-learning 专业学习 phr.
-study 学习 n.
-study-skill 学习技巧 phr.
-comprehension 理解 n.
-aware 意识到的 adj.
-acknowledgment 公认 n.
-understand 理解 v.
-share 分享 v.
-sharing 分享 n.
-idea 想法 n.
-share-ideas 分享观点 phr.
-approach 接近；方法 v./n.
-method 方法 n.
-methodology 方法论 n.
-plan 规划 v.
-planning 计划制订 n.
-plan-time 规划时间 phr.
-case-studies 案例研究(复) phr.
-example 例子 n.
-general-discussion 综合讨论 phr.
-general 普遍的；一般的 adj.
-homework 家庭作业 n.
-note 笔记 n.
-notetaking 笔记 n.
-make-notes 做笔记 phr.
-notebook 笔记本 n.
-note-system 笔记系统 phr.
-outline 概述 n.
-guideline 指导方针 n.
-object 目标 n.
-objective 目标；客观的 n./adj.
-objective-matter 目标物 phr.
-purpose 目的 n.
-prepared 准备好的 adj.
-preparation 准备 n.
-exam 考试 n.
-exam-preparation 备考 phr.
-quizzes 测验(复) n.
-test 测试 n.
-result 结果 n.
-test-result 测试结果 phr.
-academic-record 学习成绩 phr.
-achievement 完成，达到 n.
-local-school 本地学校 phr.
-primary-school 小学 phr.
-primary 主要的；最初的 adj.
-secondary-school 中学 phr.
-secondary 中等的 adj.
-summer-school 暑期学校 phr.
-nursery 幼儿园 n.
-education 教育 n.
-education-officer 教育官员 phr.
-education-plan 教育规划 phr.
-educational 教育的 adj.
-student 学生 n.
-student-card 学生卡 phr.
-student-loan 学生贷款 phr.
-student-union 学生会 phr.
-student-service 学生服务 phr.
-first-year-student 一年级学生 phr.
-first 第一 n.
-teacher 老师 n.
-teaching-staff 教员 phr.
-professor 教员；教授 n.
-tuition 学费 n.
-admission 承认，准许进入 n.
-tutor 导师 n.
-personal-tutor 个人导师 phr.
-tutorial 辅导课 n.
-university 大学 n.
-college 学院 n.
-department 院系 n.
-department-head 系主任 phr.
-academic 学院的 adj.
-undergraduate 本科 n.
-semester 学期 n.
-term 学期；术语 n.
-degree 学位 n.
-grade 等级 n.
-diploma 文凭 n.
-certificate 认证 n.
-qualification 合格 n.
-quality 质量 n.
-course 课程 n.
-course-code 课程代码 phr.
-coursework 授课 n.
-programme 课程 n.
-subject 学科 n.
-discipline 纪律；学科 n.
-compulsory 必修的 adj.
-classroom 教室 n.
-classroom-tour 教室参观 phr.
-lab 实验室 n.
-self-access-lab 24小时实验室 phr.
-laboratory 实验室 n.
-laboratories-report 实验室报告 phr.
-calendar 日历 n.
-timetable 时间表 n.
-time 时间 n.
-minute 分钟 n.
-hour 小时 n.
-daily 每日的；日常的 adj.
-daily-routine 日常事务 phr.
-geographical 地理学的 adj.
-altitude 高度；海拔高度 n.
-sea-level 海平面 phr.
-atlas 地图册 n.
-map 地图 n.
-mapping 绘制地图；地图 v./n.
-circulation 循环 n.
-oxygen 氧气 n.
-ozone-layer 臭氧层 n.
-layer 层；层次 n.
-seasonal 季节性的 adj.
-spring 春天 n.
-summer 夏天 n.
-autumn 秋天 n.
-winter 冬天 n.
-earth 地球 n.
-planet 行星 n.
-planet-science 行星科学 phr.
-day 白天 n.
-daylight 日光 n.
-morning 早上 n.
-evening 晚上 n.
-evening-news 晚间新闻 phr.
-night 夜晚 n.
-night-tour 夜游 phr.
-night-shift 夜班 phr.
-star 星星 n.
-moonlight 月光 n.
-solar 太阳能 n.
-solar-energy 太阳能 phr.
-solar-power 太阳能 phr.
-sun 太阳 n.
-sun-flower 向日葵 phr.
-sunset 日落 n.
-suncream 防晒霜 n.
-sunscreen 防晒霜 n.
-sun-hat 遮阳帽 phr.
-sun-position 太阳位置 phr.
-sunlight 阳光 n.
-water 水 n.
-watering 浇水 n.
-watering-plants 浇水 phr.
-waterproof 防水 v.
-water-level 水位 n.
-water-collection-tank 集水箱 phr.
-continent 大陆 n.
-desert 沙漠 n.
-desert-location 沙漠地区 phr.
-hill 丘陵 n.
-mountain 山 n.
-mountain-bike 山地自行车 phr.
-land 土地 n.
-land-bridge 陆桥 phr.
-cave 洞 n.
-hole 孔；漏洞 n.
-cliff 悬崖 n.
-edges 边缘(复) n.
-rock 岩石 n.
-stone 石头 n.
-limestone 石灰岩 n.
-magnet 磁体；磁石 n.
-mud 泥 n.
-soil 土壤 n.
-clay 黏土 n.
-sand 沙子 n.
-sandy 含沙的 adj.
-sandglasses 沙漏(复) n.
-soft-sediment 软沉淀 phr.
-soft 软的 adj.
-ash 灰 n.
-volcanic-ash 火山灰 n.
-dirt 污垢 n.
-mining 采矿 n.
-mineral 矿物 n.
-mineral-soil 矿质土壤 phr.
-resources 资源(复) n.
-coal 煤炭 n.
-metal 金属 n.
-gold 黄金 n.
-carbon 碳 n.
-fountain 泉 n.
-stream 小溪 n.
-waterfall 瀑布 n.
-coast 海岸 n.
-coastal 沿海的 adj.
-coastline 海岸线 n.
-coastal-cities 沿海城市(复) phr.
-beach 海滩 n.
-tides 浪(复) n.
-sill 海底山脊；岩床 n.
-ocean 海洋 n.
-ocean-condition 海洋条件 phr.
-current 洋流 n.
-sea 海 n.
-seagrass 海草 n.
-sea-view 海景 phr.
-lake 湖 n.
-lakeside 湖边 n.
-pool 水池 n.
-padding-pool 浅水池塘 phr.
-shallow 浅的 adj.
-river 河流 n.
-riverside 河边 n.
-river-trip 泛舟游览 phr.
-river-view 江景 phr.
-natural 自然的 adj.
-nature 自然 n.
-unnatural 不自然的 adj.
-habitat 栖息地 n.
-undeveloped 未开发的 adj.
-environment 环境 n.
-environment-agency 环保署 phr.
-environment-damage 环境损害 phr.
-environment-issues 环境问题(复) phr.
-sustainable 可持续的 adj.
-ecosystem 生态系统 n.
-system 系统 n.
-global-warming 全球变暖 phr.
-hot-house 温室 phr.
-pollution 污染 n.
-air-pollution 空气污染 phr.
-pollutant 污染物 n.
-contaminated 被污染的 adj.
-chemical-contaminant 化学污染物 phr.
-water-pollution 水污染 phr.
-water-quality 水质 phr.
-water-treatment 水处理 phr.
-filter 过滤 n.
-pure 纯净的 adj.
-transparency 透明度 n.
-fell 砍伐 v.
-green-tax 环保税 phr.
-alternative-energy 替代能源 phr.
-recycled-material 可再生材料 phr.
-recycling 循环 n.
-climate 气候 n.
-weather 天气 n.
-weather-observing 天气观测 phr.
-hot-weather 热天气 phr.
-tropical 热带的 adj.
-temperature 温度 n.
-high 高的 adj.
-high-temperature 高温 phr.
-higher 更高的 adj.
-warm 温暖的 adj.
-warm-climate 温暖气候 phr.
-warm-up 变热；热身 phr.
-heat 热；温度 n.
-damp 潮湿 n./adj.
-humidity 湿热 n.
-moisture 水分；湿度 n.
-evaporation 蒸发 n.
-steam 蒸汽 n.
-drought 旱灾；干旱 n.
-dried 干燥的 adj.
-dry 干燥的 adj.
-drying 干燥 n.
-dry-season 旱季 phr.
-cloud 云 n.
-rain 雨 n.
-rainfall 降雨量 n.
-rain-water 雨水 phr.
-rainbow 彩虹 n.
-air 空气；天空 n.
-air-quality 空气质量 phr.
-air-pump 空气泵 phr.
-flooding 泛滥 n.
-floodwater 洪水 n.
-hurricane 飓风 n.
-wind 风 n.
-storm 风暴 n.
-thunderstorm 暴风雨 n.
-self-evaluation 自我评价 -
-assessment 评估，估价 v.
-ability 能力；资格 n.
-improvement 改进 n.
-reinforce 增强；加强 v.
-effort 努力 n.
-confidence 信心 n.
-clever 聪明的 adj.
-brilliant 才华横溢的 adj.
-intelligence 智力 n.
-intelligent 有才智的 adj.
-savvy 机智的 adj.
-think-quickly 思维敏捷 phr.
-logic 逻辑 n.
-gift 天赋 n.
-talent 天赋 n.
-invent 编造；发明 v.
-innovation 创新 n.
-originality 创造性 n.
-origin 起源 n.
-creativity 创造力 n.
-creation 创造 n.
-outstanding 杰出的 adj.
-excellent 优秀的 adj.
-skill 技能 n.
-skills-focus 技术专攻 phr.
-negotiation-skill 谈判技巧 phr.
-communication-skill 交流技能 phr.
-problem-solving 解决问题 phr.
-problem 问题 n.
-strategies 策略(复) n.
-vision 视野 n.
-morality 道德 n.
-kindness 仁慈 n.
-loyal 忠诚的 adj.
-loyalty 忠诚 n.
-honest 诚实的 adj.
-reliable 信赖 n.
-trust 相信 n.
-responsible 有责任的；负责的 adj.
-responsibility 责任 n.
-obligation 义务 n.
-patience 耐心 n.
-Self-centered 自私的 -
-success 成功 n.
-company 公司 n.
-private-company 私人公司 phr.
-Self-employed 个体经营 -
-head-office 总部 phr.
-finance-office 财务室 phr.
-organization 组织 n.
-organize 组织 v.
-team 队伍 n.
-group 团体 n.
-group-size 团体大小 phr.
-group-organizer 团体主办单位 phr.
-meeting 会议 n.
-formal-meeting 正式会议 phr.
-group-meeting 团体会议 phr.
-conference 会议 n.
-conference-centre 会议中心 phr.
-session 会议 n.
-conversation 谈话 n.
-discussion 讨论 n.
-discussion-group 讨论组 phr.
-group-discussion 小组讨论 phr.
-interaction 互动 n.
-translator 翻译员 n.
-translation 翻译 n.
-rival 竞争对手 n./v.
-cooperative 合作的 adj.
-cooperation 合作 n.
-collaborative 协作的 adj.
-combination 结合，联合 n.
-joint 联合的 adj.
-teamwork 团队合作 -
-administration 管理 n.
-business 生意；商业 n.
-management 管理 n.
-business-management 工商管理 phr.
-business-plan 商业计划 phr.
-business-area 商务区 phr.
-business-visit 商务考察 phr.
-business-study 商业研究 phr.
-budget 预算 n.
-annual-report 年报 phr.
-market 市场 n.
-marketing 市场营销 n.
-advertise 广告 v.
-advertising 广告；做 n./v.
-advertisement 广告 n.
-profit 利润 n.
-revenue 收益 n.
-financial-result 财务业绩 phr.
-benefit 好处 n.
-risk 风险 n.
-take-risks 冒险 phr.
-closed 关闭的 adj.
-closed-down 倒闭了 phr.
-chief-executive 总裁；首席执行官 phr.
-chairman 主席 n.
-administration-officer 行政官 n.
-lead 领导 n.
-leader 领导者 n.
-leadership-style 领导风格 phr.
-council 委员会 n.
-consultant 顾问 n.
-advisor 顾问 n.
-senior-advisor 高级顾问 phr.
-offer-advice 出谋划策 phr.
-expert 专家 n.
-specialist 专家；专业 n.
-secretary 秘书 n.
-manager 经理 n.
-department-manager 部门经理 phr.
-senior-management 高管 phr.
-animal 动物 n.
-mammal 哺乳动物 n.
-wildlife 野生动物 n.
-wild 荒野 n.
-vet 兽医 n.
-bird 鸟 n.
-bird-park 鸟类公园 phr.
-birdwatching 观鸟 -
-nest 巢 n.
-nesting 筑巢 v.
-feather 羽毛 n.
-wing 翅膀 n.
-fish 鱼；鱼肉 n.
-fishing 钓鱼 n.
-fishing-lesson 钓鱼课 n.
-fishing-boat 渔船 phr.
-biological-fishing 生物捕捞 phr.
-fishing-net 渔网 phr.
-frog 青蛙 n.
-crocodile 鳄鱼 n.
-dolphin 海豚 n.
-seal 海豹；印章；封印 n./v.
-shark 鲨鱼 n.
-whale 鲸鱼 n.
-shell 壳 n.
-shellfish 贝类动物 n.
-shrimp 小虾 n.
-tuna 金枪鱼 n.
-rat 老鼠 n.
-snake 蛇 n.
-camel 骆驼 n.
-kangaroo 袋鼠 n.
-monkey 猴子 n.
-lion 狮子 n.
-insect 昆虫 n.
-worm 虫子 n.
-butterflies 蝴蝶(复) n.
-spider 蜘蛛 n.
-fly 苍蝇 n.
-herbivore 食草动物 n.
-herd (牛)群 n.
-cattle 牛 n.
-dog 狗 n.
-donkey 驴 n.
-sheep 绵羊 n.
-wool 羊毛 n.
-duck 鸭子 n.
-geese 鹅(复) n.
-swan 天鹅 n.
-rabbit 兔子 n.
-horse-riding 骑马 phr.
-horse-hair 马毛 phr.
-sable 貂皮 n.
-pet 宠物 n.
-adopt 收养；采用 v.
-behavior 行为 n.
-animals-behavior 动物行为 n.
-animal-life 动物生活 phr.
-breed 繁殖 v.
-reproduction 繁殖 n.
-evolution 进化；演变 n.
-defense 防卫 n.
-self-defense 自卫 -
-resistant 抵抗的 adj.
-fight 战斗 n.
-fighting 战斗 n.
-attack 攻击 v.
-strike 打击 n.
-instinctive 直觉的；本能的 adj.
-react 做出反应 v.
-reaction 反应 n.
-reflective 反射的 adj.
-feeding 喂食 n.
-feeding-time 喂食时间 phr.
-feed-animals 喂动物 phr.
-migrant 移民；候鸟 n.
-migration 迁移 n.
-migration-pattern 洄游路线 phr.
-route 路线 n.
-hunting 打猎 n.
-rape 掠夺 v.
-trace 追踪；痕迹 v./n.
-human 人类 n.
-human-activities 人类活动(复) phr.
-impact 冲击；影响 v./n.
-threat 威胁 n.
-danger 危险 n.
-in-danger 处在危险当中 phr.
-harm 伤害 n.
-harmful 有害的 adj.
-hurt 受伤 v.
-damage 损害 n.
-existing 现存的 adj.
-survival 幸存 n.
-decline 下降 n.
-decrease 减少 n.
-reduction 减少 n.
-rare 极少的；稀有的 adj.
-disappear 消失 v.
-destroy 毁灭 v.
-donation 捐款 n.
-voluntary 自愿的 adj.
-safari-park 野生动物园 phr.
-state-park 州立公园 phr.
-national-park 国家公园 phr.
-zoo 动物园 n.
-conservation 保护 n.
-protect 保护 v.
-protection 保护 n.
-protection-policy 保护政策 phr.
-balance 平衡 n.
-diversity 多样性；多样化；多样性，差异 n.
-vary 变化 v.
-variety 多样化 n.
-variable 多变的 adj.
-various 各种各样的 adj.
-variation 变化；变量 n.
-control 控制 v.
-plants 植物(复) n.
-plantation 种植园 n.
-marine-plants 海洋植物(复) phr.
-bushes 灌木丛(复) n.
-vegetation 植被 n.
-shade 树荫；阴影 n.
-sheet 一大片覆盖物 n.
-cover 遮盖 v.
-grasses 草(复) n.
-grassland 草地 n.
-grass-ground 草地 phr.
-grass-leaves 草叶(复) phr.
-weed 杂草；除草 n./v.
-weeding 除草 v.
-growing 生长的 adj.
-seeds 种子(复) n.
-root 根 n.
-stem 茎 n.
-sting 刺 n.
-spine 植物上的刺 n.
-trunk 树干 n.
-branches 分支；树枝(复) n.
-bunch 束；串；扎 n.
-leaf 叶子 n.
-leaves 叶子(复) n.
-flower 花 n.
-rose 玫瑰 n.
-tree 树 n.
-rare-tree 珍稀树种 phr.
-forest 森林 n.
-forestry 林业 n.
-campsite 营地 n.
-forest-campsite 森林营地 phr.
-camp 营地 n.
-tent 帐篷 n.
-wood 木材 n.
-woodland 林地 n.
-timber 木材 n.
-creature 生物 n.
-biology 生物学 n.
-microbiology 微生物学 n.
-tissue 生物组织 n.
-cell 细胞 n.
-bacteria 细菌(复) n.
-germ 细菌 n.
-gene 基因 n.
-genetic 基因的 adj.
-engineer 工程师 n.
-engineering 工程学 n.
-engineering-faculty 工程院 phr.
-electronic 电子的 adj.
-electrical 用电的；与电有 adj.
-electric-car 电动车 phr.
-electric-field 电场 phr.
-electronic-directory 电子目录 phr.
-electronic-card 电子卡 phr.
-electricity 电力 n.
-electricity-supply 电力供应 phr.
-power 功率 n.
-water-power 水力 phr.
-capacity 容量 n.
-space 太空 n.
-space-museum 太空博物馆 phr.
-space-station 空间站 phr.
-satellite 卫星 n.
-rocket 火箭 n.
-science 科学 n.
-scientist 科学家 n.
-scientific 科学的 adj.
-exploration 探索 n.
-scientific-exploration 科学探索 phr.
-scientific-research 科学研究 phr.
-advanced 先进的；高等的 adj.
-advance-level 先进水平；高级水平 phr.
-chemical 化学的 adj.
-chemist 药房；化学家 n.
-chemistry-lab 化学实验室 phr.
-compound 复合物；化合物；混合 n./v.
-complex 复杂的 adj.
-mixed 混合的 adj.
-mixture 混合；混杂 n.
-confusion 混淆 n.
-burning-time 燃烧时间 phr.
-protective-clothing 防毒服 phr.
-industry 工业 n.
-industrial 工业的 adj.
-factory 工厂 n.
-toy-factory 玩具工厂 phr.
-toy 玩具 n.
-machine 机械 n.
-machinery 机器 n.
-mechanism 机制；机械装置 n.
-energy 能源 n.
-Energy-saving 节能 -
-fuel 燃料 n.
-fuel-shortage 石油短缺 phr.
-manufacture 制造；制造；生产 n./v.
-manufacturing 制造业 n.
-manufacturer 制造商 n.
-processing 进程；加工 n.
-procedure 进程；加工 n.
-produce 生产 v.
-productivity 生产率 n.
-packing 包装 n.
-packing-material 包装材料 phr.
-package 包裹 n.
-packaging 包装 n.
-material 材料 n.
-plastic 塑料 n.
-plastic-bag 塑料袋 phr.
-nylon 尼龙 n.
-rubber 橡胶 n.
-rubber-blanket 橡胶垫 phr.
-wax 蜡 n.
-concrete 水泥 n.
-steel 钢铁制品 n.
-brick 砖头 n.
-agricultural 农业的 adj.
-agriculture 农业 n.
-crop 作物 n.
-grain 粮食 n.
-cotton 棉花 n.
-harvest 收获 n.
-fertilize 施肥 v.
-pest 害虫 n.
-pesticide 农药；杀虫剂 n.
-irrigating 灌溉 v.
-irrigation 灌溉 n.
-farmer 农民 n.
-farming 务农 n.
-farming-product 农产品 phr.
-world 世界 n.
-global 全球的 adj.
-global-market 全球市场 phr.
-expand 扩张 v.
-expansion 扩张 n.
-international 国际的 adj.
-international-express 国际快递 phr.
-international-study 国际研究 phr.
-export 出口 v.
-import 进口 v.
-trade 贸易 n.
-traders 交易员 n.
-trade-journal 行业杂志 phr.
-distribution 供应；分配 n.
-distribute 分配；散布 v.
-silk 丝绸 n.
-textile 纺织品 n.
-developing-countries 发展中国家(复) phr.
-development 发展 n.
-develop 发展 v.
-history 历史 n.
-historical-map 历史地图 phr.
-historical-photograph 历史照片 phr.
-classical-history 古典历史 phr.
-classical 古典的 adj.
-museum 博物馆 n.
-local-museum 本地博物馆 phr.
-museum-centre 博物馆中心 phr.
-previous 以前的；先前的 adj.
-complete 完整的 adj.
-integrate 完整的；使......成整体；整合 adj./v.
-segments 碎片(复) n.
-confirm 证实 v.
-demonstration 证明 n.
-proof 证据 n.
-evidence 证据 n.
-identify 鉴别；确认；发现 v.
-identification 鉴定 n.
-value 价值 n.
-collection 收集 n.
-collecting 收集 n.
-collector 采集者 n.
-monuments 纪念碑 n.
-myth 神话 n.
-ceremony 仪式 n.
-puzzle 迷；疑问 n.
-unanswered 未解答的 adj.
-answer 回答 v.
-background 背景 n.
-wall 墙壁 n.
-temple-wall 寺庙墙壁 phr.
-preserved 保存；保留 v.
-preservation 保存，保护 n.
-items 物品(复) n.
-craft (尤指手工)精心制做 v.
-souvenir 纪念品 n.
-artificial 人工的；人造的；仿造的 adj.
-man-made 人造的 -
-sculpture 雕塑；雕像 n.
-wooden-sculpture 木制雕塑 phr.
-jewelry 珠宝 n.
-crown 皇冠 n.
-arrow 箭 n.
-spear 矛 n.
-peg 固定在；钉在 v.
-buried 被埋葬 v.
-depth 深度 n.
-underground 地下 n.
-emperor 皇帝 n.
-king 国王 n.
-queen 女王 n.
-slave 奴隶 n.
-tribe 部落，部族 n.
-local-tribe 当地部族 phr.
-colony 殖民；殖民地 n.
-pirates 海盗(复) n.
-settle 定居 n./v.
-religion 宗教 n.
-philosophy 哲学 n.
-philosopher 哲学家 n.
-publishing 出版 n.
-publication 出版物；出版 n.
-magazine 杂志 n.
-journalism 新闻 n.
-photo-journalism 新闻摄影 phr.
-journalist 记者 n.
-reporter 记者 n.
-newspapers 报纸 n.
-national-newspaper 国家级报纸 phr.
-radio 收音机 n.
-radio-program 收音机节目 phr.
-radio-signal 无线信号 phr.
-media 媒体 n.
-media-plan 媒体计划 phr.
-media-studies 大众传播学 phr.
-multimedia-resources 多媒体资源(复) phr.
-screen 屏幕 n.
-video 视频 n.
-video-recording 录像 phr.
-video-camera 摄像机 phr.
-videotape-editor 录影编辑 phr.
-video-subtitle 视频字幕 phr.
-subtitle 字幕 n.
-television-program 电视节目 phr.
-television-drama 电视剧 phr.
-math 数学 n.
-mathematics 数学 n.
-number 数字 n.
-calculator 计算器 n.
-calculation 计算 n.
-tape-measurer 卷尺 phr.
-distance 距离 n.
-centimeter 厘米 n.
-kilometre 千米 n.
-measurement 测量 n.
-size 尺寸 n.
-length 长度 n.
-accuracy 精确性 n.
-accurate 精确的，准确的 adj.
-random 随机 n.
-freedom 自由 n.
-fluctuate 波动 v.
-different 不同的 adj.
-unsure 不确定的 adj.
-statistics 统计 n.
-average 平均的，平常的 adj.
-small-scale 小范围 phr.
-range 区间 n.
-matching 相称的 adj.
-equal 相同的；平等的；相等的；胜任的 adj.
-similar 相似的 adj.
-comparison 比较 n.
-maximum 最大值 n.
-small 小的 adj.
-amount 数量；总额 n.
-entire 全部 n.
-total 总的 adj.
-whole 整个 n.
-half 一半 n.
-double 两倍 n.
-twice 两次；两倍 n.
-increase 增长 n.
-extra 额外的 adj.
-two 两个 n.
-vertical 垂直的 adj.
-straight 直的 adj.
-angle 角；角度 n.
-side 边 n.
-height 高度 n.
-top 顶部 n.
-top-level 顶级 phr.
-middle 中间 n.
-intermediate 中间的 adj.
-moderate 中等的；适度的；缓和 adj./v.
-bottom 底部 n.
-lower 更低的 adj.
-shape 形状 n.
-surface 表面 n.
-round 围绕 prep.
-circle 圆圈 n.
-triangle 三角 n.
-triangle-shaped 三角形 n.
-computer 电脑 n.
-computer-centre 计算机中心 phr.
-computer-programmer 程序员 phr.
-computer-office 电脑办公室 phr.
-computer-science 计算机科学 phr.
-computer-aid 计算机辅助 phr.
-hardware 硬件 n.
-keyboard 用键盘输入 v.
-monitor 显示器；监控；监视器 n./v.
-headphones 耳机(复) n.
-software 软件 n.
-Internet 互联网 n.
-Internet-cafe 网络咖啡厅 phr.
-Internet-line 网线 phr.
-Internet-connection 网络连接 phr.
-network 网络 n.
-net 网 n.
-website 网站 n.
-online 线上 n.
-online-service 线上服务 phr.
-online-shopping 网购 phr.
-online-game 网游 phr.
-data 数据 n.
-data-analysis 数据分析 phr.
-digital-system 数字系统 phr.
-digital-store 数字商店 phr.
-technical 技术的 adj.
-technician 技术员 n.
-technology 技术 n.
-information 信息 n.
-information-sector 信息部门 phr.
-communication 通信；交流 n.
-communication-system 通信系统 phr.
-email 邮件 n.
-email-address 邮件地址 phr.
-mail 邮件 n.
-mailing-list 邮寄名单 phr.
-fax 传真 n.
-message 消息 n.
-post 邮递；邮局 n.
-postcard 明信片 n.
-post-office 邮局 phr.
-post-postage 邮费 phr.
-post-survey 邮寄调查 phr.
-letter 信 n.
-phone 电话 n.
-mobile-phone 手机 phr.
-phone-book 电话本 phr.
-phone-number 电话号码 phr.
-phone-statistics 电话统计 phr.
-phone-card 电话卡 phr.
-telephone 电话 n.
-telephone-survey 电话调查 phr.
-call 来电 n.
-call-diversion 呼叫转移 phr.
-incoming-call 打进来的电话 phr.
-resemble 像，与......相似 v.
-recognize 认出，识别；承认 v.
-adjust 调整，使适合 v.
-fundamental 基本的，基础的 adj.
-rely-on 依靠，依赖 phr.
-measure 测量 v.
-trait 特性，特征 n.
-prompt 促进，激起 v.
-exchange 交换 v.
-underlie 成为......基础；成为基础 v.
-ignore 忽视，不顾 v.
-fertilizer 化肥，肥料 n.
-rather-than 而非，不是 phr.
-thanks-to 由于，幸亏 phr.
-isolate 使隔离，使孤立 v.
-avoid 避免 v.
-adapt-to 使适应 phr.
-alternative 供替代的，供选择的；替代品；替代方案；可选的 adj./n.
-compensate 补偿，赔偿 v.
-component 成分，要素；组件 n.
-military 军事的 adj./n.
-criteria 标准 n.
-curriculum 课程 n.
-feasible 可行的 adj.
-constrain 束缚，限制 v.
-deficiency 缺陷，缺点 n.
-supplement 补充 v.
-distinguish 区别，辨别；区分 v.
-analyze 分析，解释 v.
-emphasize 强调，着重 v.
-enormous 巨大的，极大的 adj.
-imitate 模仿 v.
-impair 削弱，减少 v.
-hinder 阻碍 v.
-legitimate 合法的 adj.
-convention 手法；习俗 n.
-demanding 苛求的 adj.
-determine 决定 v.
-accelerate 加速，促进；强调 v.
-ancient 古代的；古老的 adj.
-beneficial 有益的 adj.
-chronic 慢性的，长期性的 adj.
-conscious 有意识的，神志清醒的 adj.
-minimize 最小化，使......减到最小 v.
-immunity 免疫力 n.
-imperative 必要的，紧急的 adj.
-secrete 分泌 v.
-exaggerate 夸大，夸张 v.
-transmit 传达，传输 v.
-extinct 灭绝 v.
-exclusive 独有的；排外的；专一的；排他的；独有的 adj.
-guarantee 保证，担保 v.
-inherit 继承 v.
-witness 见证，证据；目击者 n.
-magnetic 有磁性的 adj.
-loss 减少；亏损；失败；遗失 n.
-option 选择 n.
-prefer-to 更喜欢 phr.
-principle 原理 n.
-potential 潜能；潜在的 n./adj.
-quantity 量，数量 n.
-sophisticate 使复杂 v.
-specific 明确的；特殊的 adj.
-survive 存活，幸存 v.
-swift 迅速的，敏捷的，立刻的 adj.
-unexpectedly 出乎意料地；意外地 adv.
-surrounding 环境 n.
-attempt 试图，尝试 v.
-expertise 专门技术 v.
-faculty 能力，才能；全体教员 n.
-donate 捐赠 v.
-dynamics 动力学 n.
-incentive 刺激，鼓励；动机；激励 n.
-mortality 死亡率 n.
-peripheral 外围的，次要的 adj.
-vicinity 邻近，附近 n.
-threaten 威胁，危及 v.
-be-subject-to 受......支配 phr.
-be-liable-to 易于...... phr.
-innate 天生的；内在的，直觉的 adj.
-original 原始的，最初的 adj.
-confidential 机密的，秘密的 adj.
-cognitive 认知的 adj.
-comply-with 照做，遵守 phr.
-consult 查阅，商量，请教，咨询 v.
-superior 上级的；优秀的；优越的；上级 adj./n.
-co-operation 合作，协作 n.
-co-ordinate 使......协调 v.
-differ 使......相异；使......不同 v.
-cue 线索 n.
-abandon 放弃，遗弃；抛弃 v.
-halt 停止 n.
-fragile 脆弱的 adj.
-retain 记住；保留 v.
-vanish 消失，绝迹 v.
-erode 侵蚀 v.
-induce 引起，引诱 v.
-stable 稳定的 adj.
-grant 拨款；授予 v.
-adversity 逆境 n.
-aggression 侵犯 n.
-aid 援助 n.
-array 排列 n.
-association 协会 n.
-boundary 边界 n.
-burden 负担 n.
-calamity 灾难 n.
-comment 评论 n.
-commitment 承诺 n.
-conflict 冲突 n./v.
-correlation 关联；相关性 n.
-courtship 求爱 n.
-crash 碰撞 n.
-credibility 可信性 n.
-criminal 罪犯 n.
-crisis 危机 n.
-criticism 批评 n.
-delay 延迟 n.
-domain 领域 n.
-encyclopaedia 百科全书 n.
-entrepreneur 企业家 n.
-equator 赤道 n.
-estate 房地产 n.
-famine 饥荒 n.
-foe 危害物 n.
-fragment 碎片 n.
-hardship 苦难 n.
-hypothesis 假设 n.
-installment 分期付款 n.
-interference 干涉 n.
-lack 缺乏 n.
-landscape 景观 n.
-likelihood 可能性 n.
-limb 四肢 n.
-look-in 机会 n.
-log 日志 n.
-malfunction 故障 n.
-mate 配偶 n.
-mercury 水银 n.
-motif 主题 n.
-norm 规范 n.
-notoriety 恶名 n.
-optimum 最佳效果 n.
-organ 器官 n.
-peak 顶点 n.
-phase 阶段 n.
-predict 预测 n./v.
-recreation 娱乐 n.
-rehearsal 排演 n.
-revision 修正 n.
-ruin 毁灭 n.
-skepticism 怀疑 n.
-solicitor 律师 n.
-stride 进展 n.
-substance 物质 n.
-sufficiency 充足 n.
-supremacy 至高地位 n.
-symptom 症状 n.
-tension 紧张 n.
-theme 主题 n.
-toll 通行费 n.
-utilization 利用 n.
-wellbeing 健康 n.
-accumulate 积累 v.
-approve 批准 v.
-assign 分配 v.
-bear 承担 v.
-blight 损害 v.
-bungle 搞砸 v.
-certify 证明 v.
-cater 迎合 v.
-commute 通勤 v.
-compare 比较 v.
-conceal 隐藏 v.
-concur 同意 v.
-confer 授予 v.
-confuse 使困惑 v.
-designate 指定 v.
-detain 扣留 v.
-devastate 摧毁；毁灭 v.
-disclose 揭露 v.
-disrupt 破坏 v.
-distract 分心；分散注意力 v.
-evolve 进化 v.
-exploit 利用；开发；剥削 v.
-extend 扩展 v.
-extract 提取 v./n.
-fulfill 实现 v.
-harbor 怀有 v.
-indulge 沉溺 v.
-infest 侵扰 v.
-interrupt 打断 v.
-involve 涉及 v.
-manifest 表现 v.
-migrate 迁移 v.
-obscure 掩盖 v.
-obtain 获得 v.
-overcome 克服 v.
-paralyse 麻痹 v.
-participate 参与 v.
-persuade 说服；劝说 v.
-plagiarise 抄袭 v.
-plot 密谋 v.
-pose 提出 v.
-prohibit 禁止 v.
-prolong 延长 v.
-promote 促进 v.
-prosper 繁荣 v.
-purify 净化 v.
-qualify 取得资格 v.
-reject 拒绝 v.
-reproduce 繁殖 v.
-revive 复苏 v.
-steer 引导 v.
-stimulate 刺激 v.
-succumb 屈服 v.
-subdivide 细分 v.
-supersede 取代 v.
-suppress 压制 v.
-transcend 超越 v.
-transit 运输 v.
-trigger 触发 v./n.
-underestimate 低估 v.
-yield 生产 v.
-addictive 上瘾的 adj.
-agreeable 令人愉快的 adj.
-allergic 过敏的 adj.
-catastrophic 灾难的 adj.
-civil 市民的 adj.
-communal 公共的 adj.
-conservative 保守的 adj.
-considerable 相当大的 adj.
-contingent 视情况而定的 adj.
-controversial 有争议的 adj.
-demographic 人口统计的 adj.
-dental 牙科的 adj.
-disparate 不同的 adj.
-dominant 主导的 adj.
-dramatic 戏剧性的 adj.
-durable 持久的；耐用的 adj.
-ecofriendly 环保的 adj.
-elderly 年长的 adj.
-elusive 难以捉摸的 adj.
-established 已建立的 adj.
-ethical 道德的；伦理的 adj.
-exceptional 异常的 adj.
-exhausted 疲惫的 adj.
-explicit 明确的 adj.
-finite 有限的 adj.
-gifted 有天赋的 adj.
-harsh 严酷的；严厉的 adj.
-impressive 印象深刻的 adj.
-inaccurate 不准确的 adj.
-inactive 不活跃的 adj.
-inappropriate 不恰当的 adj.
-intense 强烈的 adj.
-interior 内部的 adj.
-introverted 内向的 adj.
-keen 热切的 adj.
-linguistic 语言的 adj.
-lopsided 不平衡的 adj.
-marine 海洋的 adj.
-meteorological 气象的 adj.
-nocturnal 夜间的 adj.
-offensive 冒犯的 adj.
-official 官方的 adj.
-ordinary 普通的 adj.
-paramount 最重要的 adj.
-patient 耐心的 adj.
-pessimistic 悲观的 adj.
-physical 身体的 adj.
-portable 便携的 adj.
-pressing 紧迫的 adj.
-radical 激进的 adj.
-religious 宗教的 adj.
-reluctant 不情愿的 adj.
-scenic 风景优美的 adj.
-subtle 微妙的 adj.
-suspicious 可疑的 adj.
-unbiased 公正的 adj.
-valuable 有价值的 adj.
-versatile 多功能的；多才多艺的 adj.
-violent 暴力的 adj.
-visible 可见的 adj.
-visual 视觉的 adj.
-erratically 不稳定地 adv.
-eventually 最终 adv.
-mainly 主要地 adv.
-solely 唯一地 adv.
-be-consistent-with 与...一致 phr.
-in-accordance-with 依照 phr.
-manage-to-do 设法完成 phr.
-out-of-the-question 不可能 phr.
-plenty-of 大量的 phr.
-refer-to 涉及 phr.
-establish 建立 v.
-embed 嵌入 v.
-initial 最初的 adj.
-infancy 婴儿期；初期 n.
-pioneer 先驱；开拓 n./v.
-preliminary 初步的 adj.
-constitute 构成 v.
-emerge 出现 v.
-inherently 固有地 adv.
-spontaneous 自发的 adj.
-intention 意图 n.
-device 装置 n.
-aspect 方面 n.
-perspective 视角 n.
-ingredient 成分 n.
-appendage 附属物 n.
-segment 部分 n.
-hemisphere 半球 n.
-proportion 比例 n.
-comprise 包含 v.
-interact 互动 v.
-coordinate 协调；坐标 v./n.
-participant 参与者 n.
-intervention 干预 n.
-engage 参与 v.
-synthesis 合成 n.
-assembly 组装 n.
-compile 编译 v.
-site 地点 n.
-contemporary 当代的 adj.
-simultaneously 同时地 adv.
-existence 存在 n.
-persistent 持续的 adj.
-permanent 永久的 adj.
-endure 忍受 v.
-constantly 不断地 adv.
-undergo 经历 v.
-tolerate 容忍 v.
-periodic 周期性的 adj.
-orbit 轨道；环绕 n./v.
-essential 必要的 adj.
-substantial 实质的 adj.
-emphasis 强调 n.
-primarily 主要地 adv.
-vital 至关重要的 adj.
-crucial 关键的 adj.
-spectacular 壮观的 adj.
-astonishing 惊人的 adj.
-eminent 杰出的 adj.
-sufficient 充足的 adj.
-abundant 丰富的 adj.
-tremendous 极大的 adj.
-immense 无限的 adj.
-infinite 无穷的 adj.
-myriad 无数(的) n./adj.
-aggressive 侵略性的；进取的 adj.
-debate 辩论 n./v.
-paradox 悖论 n.
-controversy 争议 n.
-contradict 矛盾 v.
-contrary 相反的；反面 adj./n.
-contrast 对比 n./v.
-reverse 逆转；相反的 v./n./adj.
-wobble 摇晃 v./n.
-vulnerable 易受伤害的 adj.
-seldom 很少 adv.
-eliminate 消除 v.
-insulate 隔离；绝缘 v.
-interval 间隔 n.
-margin 边缘；利润 n.
-ignorance 无知 n.
-investigate 调查 v.
-inspection 检查 n.
-detect 检测 v.
-perceive 察觉 v.
-perception 感知 n.
-ascertain 查明 v.
-insight 洞察力 n.
-comprehensive 全面的 adj.
-appreciate 欣赏；理解 v.
-demonstrate 证明；展示 v.
-apparent 明显的 adj.
-reveal 揭示 v.
-distinct 独特的 adj.
-definite 明确的 adj.
-illustrate 说明 v.
-depict 描绘 v.
-interpret 解释 v.
-implication 含义；暗示 n.
-convince 说服 v.
-diverse 多样的 adj.
-odd 奇怪的 adj.
-attribute 属性；归因于 n./v.
-unprecedented 前所未有的 adj.
-exotic 异国的 adj.
-patent 专利；获得专利 n./v.
-drastically 剧烈地 adv.
-intensive 密集的 adj.
-rigidly 严格地 adv.
-assess 评估 v.
-evaluate 评价 v.
-presumably 推测地 adv.
-assumption 假定 n.
-proposition 提议 n.
-speculate 推测 v.
-anticipate 预期 v.
-skeptical 怀疑的 adj.
-deduce 推断 v.
-abstract 抽象的；摘要 adj./n.
-notion 概念 n.
-constraint 约束 n.
-restrict 限制 v.
-confine 限制 v.
-interfere 干涉 v.
-distort 扭曲 v.
-extinction 灭绝 n.
-erosion 侵蚀 n.
-collapse 崩溃 v./n.
-dispose 处理 v.
-ultimate 最终的 adj.
-protest 抗议 v./n.
-equivalent 相等的；等价物 adj./n.
-identical 完全相同的 adj.
-consistent 一致的 adj.
-imitation 模仿 n.
-simulate 模拟 v.
-legislation 立法 n.
-conventional 传统的 adj.
-prevailing 流行的 adj.
-consensus 共识 n.
-conform 符合；遵守 v.
-corresponding 相应的 adj.
-approximately 大约 adv.
-virtually 几乎 adv.
-roughly 粗略地 adv.
-cultivate 培养 v.
-preserve 保护 v.
-advocate 提倡；倡导者 v./n.
-canopy 树冠 n.
-mature 成熟的；成熟 adj./v.
-enable 使能够 v.
-accommodate 容纳 v.
-facilitate 促进 v.
-provision 供应 n.
-nurture 培育 v.
-refine 精炼 v.
-enhance 增强 v.
-remedy 补救 n./v.
-bias 偏见 n./v.
-entitle 赋予权利 v.
-modify 修改 v.
-convert 转换 v.
-substitute 替代 v./n.
-exceed 超过 v.
-subsequent 随后的 adj.
-consecutive 连续的 adj.
-accompany 陪伴 v.
-descendant 后代 n.
-inherent 固有的 adj.
-ingenious 聪明的 adj.
-encyclopedia 百科全书 n.
-profound 深刻的 adj.
-sophisticated 复杂的 adj.
-dynamic 动态的 adj.
-resilience 韧性 n.
-stretch 伸展 v./n.
-discharge 释放 v./n.
-enthusiasm 热情 n.
-robust 强健的 adj.
-derive 源于 v.
-purchase 购买 v./n.
-embrace 拥抱；接受 v.
-gather 收集 v.
-excavate 挖掘 v.
-accessible 可进入的 adj.
-capable 有能力的 adj.
-appropriate 合适的；挪用 adj./v.
-proper 适当的 adj.
-viable 可行的 adj.
-flourish 繁荣 v.
-prospect 前景 n.
-convenient 方便的 adj.
-adequate 足够的 adj.
-desirable 理想的 adj.
-inevitably 不可避免地 adv.
-conduct 进行；行为 v./n.
-undertake 承担 v.
-implement 实施；工具 v./n.
-harness 利用；马具 v./n.
-dedicate 奉献 v.
-valid 有效的 adj.
-precise 精确的 adj.
-elaborate 详尽的；详细说明 adj./v.
-aboriginal 土著的；土著人 adj./n.
-inhabit 居住 v.
-adjacent 邻近的 adj.
-consequence 后果 n.
-consequent 随之发生的 adj.
-enforce 执行 v.
-phenomenon 现象 n.
-archaeologist 考古学家 n.
-obsession 痴迷 n.
-parasite 寄生虫 n.
-albeit 尽管 conj.
-encounter 遭遇 v./n.
-campaign 运动；发起运动 n./v.
-heritage 遗产 n.
-optimist 乐观主义者 n.
-terrestrial 陆地的 adj.
-circumstance 情况 n.
-crater 火山口 n.
-commodity 商品 n.
-gesture 手势；做手势 n./v.
-devote 奉献 v.
-scenario 情景 n.
-aesthetic 美学的 adj.
-atmosphere 大气；氛围 n.
+foods|食品(复)|n.
+food intake|进食|-
+food chain|食物链|-
+food containers|食品容器|-
+food supply|食品供应|-
+fresh food|新鲜食物|-
+frozen food|冷冻食品|-
+preparing food|做饭|-
+diet|日常饮食|n.
+eat|吃|v.
+meal|餐|n.
+evening meals|晚餐|-
+breakfast|早餐|n.
+lunch|午餐|n.
+dinner|晚餐|n.
+dining room|餐厅|-
+hunger|饥饿|n.
+starvation|饥饿|n.
+low nutrition|低营养|-
+restaurant|餐馆|n.
+catering|餐饮服务|n.
+takeaway|外卖|-
+picnic|野餐|n.
+eating patterns|饮食习惯(复)|-
+tastes|滋味(复)|n.
+scent|香味|n.
+smell|气味|n.
+odour|气味；臭气；声誉|n.
+flavor|香料；滋味|n.
+ingredients|成分(复)|n.
+salt|盐|n.
+sugar|糖|n.
+olive oil|橄榄油|-
+acid|酸的；酸性的|adj.
+sweetener|甜味剂|n.
+antiseptic|防腐剂；抗菌剂|n.
+vegetarian|素食者|n.
+kitchen|厨房|-
+kitchen area|厨房区域|-
+cook|烹饪|v.
+cooking|做饭|n.
+cooker|炊具|n.
+cookery|烹饪技术|n.
+shelf|架子|n.
+rack|架子|n.
+lids|盖子(复)|n.
+overfill|把......装满|vt.
+container|容器|n.
+cup|杯子|n.
+tank|罐；箱|n.
+bucket|桶|n.
+boiler|锅炉；烧水壶|n.
+pot|把......装罐|v.
+pottery|陶器|n.
+basket|篮子|n.
+cut|切开|v.
+knife|刀|n.
+axe|斧子|n.
+stick|棒子|n.
+long stick|长棍子|-
+brushes|刷子(复)|n.
+plates|盘子；片状硬物体(复)|n.
+spoon|勺子|n.
+apron|围裙|n.
+oven|烤箱|n.
+microwave|微波炉|n.
+doublegrill|双面烤箱|-
+fire|火|n.
+fireplaces|壁炉|n.
+firewood|柴火|n.
+fireworks|烟花(复)|n.
+fire blanket|灭火毯|-
+fire drill|消防演习|-
+gas|气体|n.
+gas tanks|煤气罐|-
+natural gas|天然气|-
+fridge|冰箱|n.
+freezer|冷冻柜|n.
+dishwasher|洗碗机|-
+rice|米|n.
+smash|粉碎|v.
+starch|淀粉|n.
+grind flour|磨粉|-
+powder|粉末|n.
+potatoes|土豆(复)|n.
+carrots|胡萝卜(复)|n.
+corn|玉米|n.
+meat|肉|n.
+fresh meat|新鲜肉|-
+seafood|海鲜|n.
+chicken|鸡肉|n.
+egg|鸡蛋|n.
+fruit|水果|n.
+fruit tree|果树|-
+fruit cake|水果饼|-
+apple|苹果|n.
+coconut|椰子|n.
+banana|香蕉|n.
+lemon|柠檬|n.
+orange|橘子；橘黄色|n.
+tomatoes|番茄(复)|n.
+cake|蛋糕|n.
+fish cake|炸鱼饼|-
+pizza|比萨饼|n.
+pizza boxes|比萨盒|-
+boxes|盒子(复)|n.
+sandwiches|三明治(复)|n.
+vegetable burger|蔬菜汉堡|-
+salads|沙拉(复)|n.
+cheese|芝士|n.
+honey|蜂蜜|n.
+snacks|小吃(复)|n.
+high energy snack|高能量食物|-
+refreshments|小吃(复)|n.
+chocolate|巧克力|n.
+gum|口香糖；树胶|n.
+nuts|坚果(复)|n.
+organic|有机的|adj.
+nutrition|营养|n.
+protein|蛋白质|n.
+vitamin A|维生素A|-
+drink|饮料|n.
+drink milk|喝牛奶|-
+drinks and snacks|饮料和小吃(复)|-
+free drink|免费饮料|-
+drinking|喝饮料|n.
+drinking machines|饮水机|-
+bottle water|瓶装水|-
+spring water|矿泉水|-
+juice|果汁|-
+fruit juice|果汁|-
+juice bottles|果汁瓶|-
+apple juice|苹果汁|-
+milk|牛奶|n.
+tea|茶|n.
+beer|啤酒|n.
+ice|冰|n.
+ice pack|冰袋|-
+soup|汤|n.
+cafe|咖啡馆|n.
+coffee|咖啡|n.
+coffee table|咖啡桌|-
+coffee machine|咖啡机|-
+traffic|交通|n.
+traffic flow|车流量|-
+traffic noise|交通噪音|-
+transport|交通|n.
+public transport|公共交通|-
+transport service|交通服务|-
+transportation|交通工具|n.
+free transportation|免费交通|-
+airline|航线|n.
+airplane|飞机|n.
+airport|机场|n.
+flight|航班|n.
+return ticket|回程票|-
+train|火车|n.
+express train|特快火车|-
+railway station|火车站|-
+railway line|铁路线|-
+railway track|铁轨|-
+truck|卡车|n.
+boat|船|n.
+ship|船|n.
+ship bell|船钟|-
+ship building|造船|-
+shipping|航运|n.
+sailing|航行|n.
+bus|公交车|n.
+bus stop|公交站|-
+bus ticket|公交票|-
+special buses|专用公车|-
+minibus|小型巴士|n.
+bus service|公交服务|-
+shuttle|班车|n.
+passenger|乘客|n.
+station|车站|n.
+subway|地铁|n.
+highway|高速公路|n.
+lane|车道；小巷|n.
+taxi|出租车|n.
+cab|的士|n.
+helicopter|直升机|n.
+plane|飞机；平面|n.
+plane science|飞行科学|-
+bicycle|自行车|n.
+bike|自行车|n.
+chain|链条|n.
+tickets|票(复)|n.
+access|进入|n.
+check|检查；支票|v./n.
+lists|列表(复)|n.
+checklist|清单|n.
+photographs|照片(复)|n.
+photographic|摄影的|adj.
+take photos|照相|-
+camera|相机|n.
+zoom|变焦|n.
+focus|中心点；焦距|n.
+flash light|闪光灯|-
+flashing|闪烁的|adj.
+scenery|风景|n.
+view|风景；看待|n./v.
+lookout point|观景点|-
+rural|乡下的|adj.
+village|乡村|n.
+country|乡下；国家|n.
+countryside living|田园生活|-
+different countries|不同的国家|-
+carnival|狂欢节|n.
+festival|节日|n.
+balloon|热气球|n.
+cable|缆线|n.
+cable car|缆车|-
+climbing|攀爬|n.
+experience|体验，体会|n.
+memories|记忆(复)|n.
+holiday|度假|n.
+national holidays|公共假日|-
+vacation|度假|n.
+travelling|旅行|n.
+domestic|国内的|adj.
+overseas|海外的|adj.
+peak season|旺季|-
+embassy|大使馆|n.
+visa|签证|n.
+passport|护照|n.
+passport photos|护照照片(复)|-
+personal information|个人信息|-
+tour|观光|n.
+general tour|一般性旅游|-
+tourism|旅游|n.
+tourists|游客(复)|n.
+visits|参观(复)|n.
+visitor|游客|n.
+guest|客人|n.
+group trip|团体旅游|-
+guides|向导(复)|n.
+hostel|旅社|n.
+motel|汽车旅馆|n.
+hotel|酒店|n.
+booking|预订|n.
+book in advanced|提前预订|-
+booking form|预订表格|-
+reservation|预订|n.
+front|前面|n.
+front desk|前台|-
+help desk|服务台|-
+information desk|问讯处|-
+reception|接待|n.
+receptionist|接待员|n.
+hospitality|款待|n.
+home welcome|宾至如归|-
+unapproachable|不友好的|adj.
+waiter|服务员|n.
+waitress|女服务员|n.
+services|服务(复)|n.
+service manager|服务部经理|-
+room service|客房服务|-
+satisfaction|满意度|n.
+satisfactory|令人满意的|adj.
+pleasure|愉快|n.
+feedback|反馈|n.
+comment card|意见表；注解表|-
+card|卡片|n.
+card index|卡片索引|-
+noisy|吵闹的|adj.
+loud noises|大声喧哗|-
+complaints|投诉(复)|n.
+apologize|道歉；认错|v.
+apology|道歉；认错|n.
+car|汽车|n.
+car park|车位|-
+car tyre|车胎|-
+high car taxes|高额车辆税|-
+race car|赛车|-
+nitrogen|氮气|n.
+automobile|汽车|n.
+motor|汽车|n.
+caravan|房车|n.
+minivan|小型货车|n.
+drive|驾驶|v.
+test drive|试驾|-
+driver|司机|n.
+driving|驾驶|n.
+license|执照|n.
+driving license|驾照|-
+self-drive|驾驶自己的车(去度假)的|-
+beginner|初学者|n.
+beginning|开始|n.
+basic|基本的|adj.
+navigate|驾驶；定位|v.
+navigational|导航的|adj.
+pilots|领航员(复)|n.
+turn|转向|v.
+orientation|方向|n.
+direction|方向|n.
+downhill|下坡的|adj.
+speed|速度|n.
+uncontrolled|无法控制的|adj.
+rush|匆忙|n.
+hurry up|催促|-
+radar|雷达|n.
+limit|限制|v.
+limitation|限制；局限|n.
+slow|缓慢的|adj.
+warning|警告|n.
+signal|信号|n.
+instruction|指令|n.
+dictation|命令|n.
+rule|规则|n.
+antifreeze|防冻液|n.
+petrol|汽油|n.
+petrol station|加油站|-
+gas station|加油站|-
+oil|石油|n.
+oil filter|油滤器|-
+engine|发动机|n.
+automatic|自动换挡汽车|n.
+tyre|轮胎|n.
+wheel|轮子|n.
+back wheel|后轮|-
+wheelchair|轮椅|n.
+seat|座位|n.
+child seat|儿童座椅|-
+seating|座位|n.
+parking|停车位|n.
+parking space|停车位|-
+free parking|免费停车|-
+disability|残疾|n.
+disable people|残疾人|-
+blind|失明的|adj.
+physical changes|身体变化(复)|-
+internal clock|生物钟|-
+sleep|睡觉|n.
+sleeping bag|睡袋|-
+sleeping sickness|嗜睡症|-
+sleeping pills|安眠药|-
+health|健康|n.
+health care|健康护理|-
+health service|公共医疗服务|-
+health check|体检|-
+health department|卫生部|-
+health benefits|健康上的益处(复)|-
+unhealthy|不健康的|adj.
+fitness|健康|n.
+age|使变老|v.
+aging|老龄化|n.
+lifespan|寿命|n.
+life cycle|生命周期|-
+lifestyle|生活方式|n.
+life science|生命科学|-
+quality of life|生活质量|-
+metabolism|新陈代谢|n.
+digest|消化|v.
+digestion|消化|n.
+digestive|消化的|adj.
+body shape|体型|-
+body fluid|体液|-
+body language|肢体语言|-
+back|背部|n.
+back problem|背部问题|-
+leg|腿|n.
+leg room|腿部空间|-
+feet|双脚(复)|n.
+footprints|脚步(复)|n.
+footpath|人行道|n.
+knee|膝盖|n.
+arm|臂，手臂；武器|n.
+hand|手|n.
+finger|手指|n.
+head|头|n.
+headaches|头疼(复)|n.
+faces|脸部(复)|n.
+face painting|脸部彩绘|-
+hair|头发|n.
+skin|皮肤|n.
+jaw|下巴|n.
+neck|脖子|n.
+necklace|项链|n.
+teeth|牙齿(复)|n.
+toothache|牙疼|n.
+tongue|舌头|n.
+brain|大脑|n.
+eye|眼睛|n.
+eyedrops|眼药水(复)|n.
+eye contacts|眼神交流|-
+eyesight|视力|n.
+hearing|听力|n.
+listening|听力|n.
+voice|嗓音|n.
+clear|清晰的|adj.
+clear voice|清晰嗓音|-
+kidney|肾|n.
+heart|心脏|n.
+heart rate|心率|-
+heart disease|心脏病|-
+lungs|肺(复)|n.
+breathe|呼吸|v.
+stomach|胃|n.
+blood|血|n.
+red blood cells|血红细胞(复)|-
+bone|骨头|n.
+mental|心理的；精神的|adj.
+mental ability|心智能力|-
+emotion|情感|n.
+emotional|情感的|adj.
+rationally|理性地|adv.
+moods|心情(复)|n.
+character|性格|n.
+personality|个性|n.
+influence|影响|n.
+negative|消极的|adj.
+negative affect|消极情绪|-
+negative thinking|负面思考|-
+opposite|反面|n.
+against|反对|prep.
+passive|消极的；冷漠的|adj.
+corrupt|堕落的|adj.
+pressure|压力|n.
+stress|压力|n.
+stressful|有压力的|adj.
+stuck|被......困住的|adj.
+depression|沮丧；抑郁；萧条|n.
+frustration|沮丧|n.
+discourage|使泄气|v.
+encourage|鼓励|v.
+useless|无用的|adj.
+horror|恐惧|n.
+scare|恐惧|n.
+fear|害怕|n.
+tolerance|忍耐|n.
+lonely|寂寞的；孤独的|adj.
+isolation|孤立|n.
+unsocial|不合群的|adj.
+independence|独立|n.
+escape|逃离，躲过|v.
+tears|眼泪(复)|n.
+torn|撕裂|v.
+sensitive|敏感的|adj.
+shame|羞愧|n.
+boring|无聊的|adj.
+virus|病毒|n.
+infection|感染；传染|n.
+diseases|疾病(复)|n.
+illness|疾病|n.
+uncomfortable|不舒服的|adj.
+cold|感冒|n.
+flu|流感|n.
+delicate|纤弱的|adj.
+pain|疼痛|n.
+muscle pain|肌肉疼痛|-
+injury|损伤|n.
+sports injury|运动损伤|-
+emergency|紧急情况|n.
+accident|事故，意外|n.
+ambulance|救护车|n.
+first-aid kit|急救包|-
+hospital|医院|n.
+doctor|医生|n.
+nurse|护士|n.
+nursing|护理|n.
+dentist|牙医|n.
+psychologist|心理学家|n.
+description|描述|n.
+detail|详细|n.
+detail information|详细信息|-
+medication|药物|n.
+medicine|药|n.
+natural medicine|中草药|-
+medical|医学的；医药的|adj.
+medical centre|医疗中心|-
+drug|药物|n.
+poison|毒药；毒物|n.
+oral|口试|n.
+antibiotics|抗生素|n.
+painkiller|止疼片|n.
+therapy|治疗|n.
+treatment|治疗|n.
+plastic surgery|整形手术|-
+solution|解决方法|n.
+immune|有免疫力的|adj.
+prevention|预防|n.
+implant|将(人造器官等)植入|v.
+lose weight|减肥|-
+rest|休息|v.
+rest area|休息区|-
+restroom|休息室|n.
+smile|微笑|n.
+relaxation|放松|n.
+stimulation|激励|n.
+aspiration|强烈的愿望|n.
+motivation|动机|n.
+address|地址|n.
+apartment|公寓|n.
+flat|公寓|n.
+housing|住宅|n.
+house key|房门钥匙|-
+entrance|入口|n.
+door|门|n.
+door to door|门到门服务|-
+back door|后门|-
+gate|大门|n.
+side gate|侧门|-
+handle|门把手|n.
+lock|锁|n.
+locker|锁柜|n.
+lockup garage|带锁车库|-
+selflocking|自动上锁|-
+code|密码|n.
+password|密码|n.
+elevator|电梯|n.
+stairs|楼梯(复)|n.
+staircases|楼梯(复)|n.
+upstairs|楼上(复)|n.
+stair lift|楼梯升降机|-
+roof|屋顶|n.
+dome|圆屋顶|n.
+corner|角落|n.
+layout|布局|n.
+ground plan|草图|-
+structure|结构|n.
+structured|有结构的|adj.
+genetic structure|遗传结构|-
+living room|客厅|n.
+double room|双人房|-
+changing room|更衣室|-
+green room|绿色房间|-
+spare room|客房|-
+spare|备用的|adj.
+lounge|客厅|n.
+cabin|小屋|n.
+cabin key|客舱钥匙|-
+studio|工作室|n.
+balcony|阳台|n.
+terrace|阳台|n.
+bedroom|卧室|n.
+bed sheet|床单|n.
+queen size|双人床|-
+bath|洗澡；泡澡|v.
+bathroom|浴室|n.
+toilet|厕所|n.
+basement|地下室|n.
+garage|车库|n.
+warehouse|仓库|n.
+storage space|储藏室|-
+fence|围墙|n.
+barrier|屏障；障碍|n.
+floor|地板|n.
+ground|地面|n.
+living expense|生活开销|-
+clean|干净的|adj.
+cleanest|最清洁的|adj.
+clean product|清洁用品|-
+clean material|清洁材料|-
+clean machine|清洁机器|-
+waste|浪费|n.
+waste disposal|废弃处置|-
+green waste|可回收垃圾|-
+rubbish|垃圾|n.
+trash|垃圾|n.
+garbage|垃圾|n.
+dust bag|集尘袋|-
+reusable|可重复使用的|adj.
+reusable bag|环保袋|-
+water pipe|水管|-
+pipe|管道|n.
+drain|排水|v.
+pump|泵；打气筒|n.
+pump water|用水泵抽水|-
+explode|爆炸|v.
+explosion|爆炸|n.
+leak|漏洞|n.
+gap|间隙|n.
+request|请求|n.
+require|要求|v.
+demand|需求|n.
+contact|联系|v.
+contact number|联系电话|-
+maintenance|维护|n.
+replacement|替换|n.
+change|改变|v.
+repair|修理|v.
+free repair|免费修理|-
+repaired cost|修理成本|-
+carpenter|木匠|n.
+seasoned|风干的|adj.
+polish|抛光|v.
+board|板子|n.
+decoration|装潢|n.
+equipment|工具|n.
+tools|工具(复)|n.
+traditional tool|传统工具|-
+scaffold|脚手架|n.
+ladder|梯子|n.
+glue|胶水|n.
+grease|油膏|n.
+wires|电线(复)|n.
+indoor|在室内的|adj.
+facilities|设备(复)|n.
+ventilation system|通风系统|-
+fan|风扇|n.
+aircondition|空调，空调器|n.
+central heating|中央暖气|-
+cool|凉爽的|adj.
+heater|取暖器|n.
+water heater|热水器|n.
+shower|洗澡|n.
+warm bath|热水澡|-
+towel|毛巾|n.
+soap|肥皂|n.
+washbasin|面盆|n.
+light|光；灯|n.
+lighting|照明|n.
+lamp|灯|n.
+desk lamp|台灯|-
+candle|蜡烛|n.
+bright|明亮的|adj.
+washing|洗|n.
+washing machine|洗衣机|-
+laptop|笔记本电脑|n.
+batteries|电池(复)|n.
+furniture|家具|n.
+unfurnished|无家具的|adj.
+table|桌子|n.
+long table|长桌|-
+round table|圆桌|-
+chair|椅子|n.
+armchair|扶手椅|n.
+mirror|镜子|n.
+window|窗户|n.
+window glass|窗户玻璃|-
+window view|窗景|-
+curtain|窗帘|n.
+glass|玻璃|n.
+glass roof|玻璃顶|n.
+blanket|毯子|n.
+carpet|地毯|n.
+mat|垫子|n.
+application|应用；申请表|n.
+form|表格|n.
+application form|申请表|-
+fill|填写|v.
+signature|签名|n.
+sign|标记|v.
+deadline|最后期限|n.
+name|名字|n.
+expectation|期望|n.
+expect|预期|v.
+decision|决定|n.
+accept|接受|v.
+acceptable|可接受的|adj.
+choice|选择|n.
+choose|选择|v.
+choosing|选择|v.
+select|选择|v.
+selection|选择|n.
+agencies|中介(复)|n.
+agent|代理人；中介|n.
+Long-term|长期的|-
+contract|合同|n.
+agreement|协定；协议|n.
+lawyer|律师|n.
+law department|法律部门|-
+law firm|律所|-
+legal|法律的；合法的|adj.
+standard|标准|n.
+standard grade|标准等级|-
+arrangement|安排；约定|n.
+regulation|规定|n.
+strict|严格的|adj.
+smoking|抽烟|n.
+nonsmoking|禁止吸烟|-
+smoke alarm|烟雾报警器|-
+cigar|雪茄|n.
+advance|预付|v.
+neighbours|邻居|n.
+landlady|女房东|n.
+consume|消费|v.
+consumer|消费者|n.
+consumption|消费|n.
+customer|顾客|n.
+client|顾客|n.
+shopper|顾客|n.
+wallet|钱包|n.
+retail|零售|n.
+store|商店；存储|n./v.
+shop|商店|n.
+local shop|本地商店|-
+shopping|购物|n.
+shopping mall|购物中心|-
+department store|百货商店|-
+booth|摊位|n.
+canteen|小卖部|n.
+grocery|杂货店|n.
+fast food shop|快餐店|-
+supermarket|超市|n.
+super|超级的|adj.
+bakery|面包房|n.
+barber shop|理发店|-
+laundry|洗衣物的活|n.
+salesman|销售员|n.
+sales|销售额(复)|n.
+leaflet|传单|n.
+delivery|快递；递送|n.
+commerce|商务；商业|n.
+commercial|商业的|adj.
+price|价格|n.
+estimate|估价；估计|v./n.
+evaluation|评价|n.
+fees|费用(复)|n.
+cost|花费|v.
+cost-effective|精打细算|-
+costly|贵的|adj.
+pay|付款|v.
+payment|付款|n.
+goods|商品|n.
+products|产品(复)|n.
+production|产品；产量|n.
+bar code|条形码|-
+label|标签|n./v.
+sticker|贴纸|n.
+discount|折扣|n.
+bargain|便宜货|n.
+save|节省|v.
+savings|储蓄(复)|n.
+special offer|特价|-
+cheap|廉价的|adj.
+expensive|贵的|adj.
+fair|合理的|adj.
+refund|退款|n.
+families|家庭(复)|n.
+families life|家庭生活|-
+family photo|全家福|-
+family ticket|家庭票|-
+family relationship|家庭关系|-
+family member|家庭成员|-
+home|家|n.
+marriage|婚姻|n.
+wedding|婚礼；婚宴|n.
+couple|对，双；夫妇|n.
+pair|夫妻；一对|n.
+babies|婴儿(复)|n.
+birth|出生|n.
+relationships|关系(复)|n.
+link|链接|n.
+connected|有关系的|adj.
+relevant|紧密相关的|adj.
+generation|产生；一代人|n.
+brother-in-law|连襟|n.
+mother|母亲|n.
+uncle|叔叔|n.
+parent|父母|n.
+partner|搭档；配偶|n.
+grandfather|爷爷|n.
+grandmother|奶奶|n.
+gender|性别|n.
+boy|男孩|n.
+male|男性|n.
+female|女性；雌性|n.
+women|妇女(复)|n.
+children|儿童(复)|n.
+children background|儿童背景|-
+children mind|儿童的心智|-
+friend|朋友|n.
+friendly|友好的|adj.
+friendship|友谊|n.
+social|社会的|adj.
+society|社会|n.
+sociable|善于交际的|adj.
+social event|社交活动|-
+social interaction|社交沟通|-
+social worker|社工|-
+social skills|社交技巧(复)|-
+social information|社交信息|-
+social activities|社交活动(复)|-
+socialize|交际|v.
+people|人(复)|n.
+individual|个人；个体|n.
+person|人|n.
+personal|个人|n.
+personal officer|人事管理员|-
+wealthy|富有的|adj.
+wealthy people|富人|-
+rich|富有的|adj.
+luxury|奢侈|n.
+poverty|贫困；贫穷|n.
+identity|身份|n.
+heroes|英雄(复)|n.
+celebrities|名人(复)|n.
+privacy|隐私|n.
+private|私有的；私人的|adj.
+private property|私人财产|-
+junior|青少年|n.
+teenager|青少年|n.
+young|年轻的|adj.
+young people|年轻人|-
+young children|幼儿|-
+young teenager|(十几岁的)年轻人|-
+young graduate|年轻毕业生|-
+youth|青春|n.
+maturity|成熟|n.
+adult|成年人|n.
+oldest|最老的|adj.
+old people|老人|-
+senior|年长的|adj.
+peers|同辈；同伴(复)|n.
+peer group|同龄群体|-
+color|颜色|n.
+colour|彩色|n.
+coloured|彩色的|adj.
+colour photos|彩色照片|-
+dark|黑暗的|adj.
+dark blue|深黑色|-
+dark and light|黑暗与光明|-
+darkroom|暗房|n.
+blue|蓝色|n.
+yellow|黄色|n.
+grey|灰色的|adj.
+purple|紫色|n.
+red|红色|n.
+silver|银色|n.
+silver cloth|银色布料|-
+silver coin|银币|-
+metallic grey|金属灰|-
+white|白色|n.
+white board|白板|-
+green|绿色|n.
+hazel|淡褐色|n.
+appearance|外貌，外观|n.
+fashion|时尚|n.
+popular|受欢迎的|adj.
+prevalent|流行的|adj.
+trend|趋势|n.
+traditional style|传统风格|-
+traditional|传统|n.
+cosmetics|化妆品(复)|n.
+cream|乳霜|n.
+perfume|香水|n.
+wear|穿|v.
+clothes|衣服|n.
+clothing|衣服|n.
+clothing section|服装节|-
+formal clothing|正装|-
+outfits|套装(复)|n.
+dress code|着装规定|-
+fancy dress|化装舞会服装|-
+uniform|制服；一致的|n./adj.
+bag|包|n.
+shoes|鞋子(复)|n.
+washable shoes|可水洗的鞋(复)|-
+boots|靴子(复)|n.
+socks|袜子(复)|n.
+gloves|手套(复)|n.
+hat|帽子|n.
+party hat|聚会帽子|-
+helmet|头盔|n.
+pocket|口袋|n.
+shirt|衬衣|n.
+sweater|针织衫|n.
+jacket|夹克|n.
+trousers|裤子(复)|n.
+jeans|牛仔裤(复)|n.
+strap|皮带|n.
+line|线|n.
+string|细绳|n.
+rope|绳子|n.
+elastic|松紧带|n.
+stretching|弹性|n.
+financial|金融的|adj.
+finance market|金融市场|-
+finance|金融|n.
+bank|银行|n.
+bank statement|银行对账单|-
+bank transfer|银行转账|-
+bill|账单|n.
+bookkeeping|记账|n.
+account|账目，报告，理由|n.
+accountant|会计师|n.
+accountable|负责任的|adj.
+cash|现金|n.
+cashier|收银员|n.
+cash machine|自动取款机|-
+money|钱|n.
+money lender|放贷人|-
+coin|硬币；创造|n./v.
+pound|英镑|n.
+cheque|支票|n.
+draft|汇票|n.
+credit|信用|n.
+credit card|信用卡|-
+credit check|信贷审查|-
+loan|贷款|n.
+cooperation loan|合作贷款|-
+deposit|押金|n.
+economy|经济|n.
+economic|经济学的|adj.
+economic depression|经济衰退|-
+economics history|经济学史|-
+economical|经济的|adj.
+insurance|保险|n.
+insurance company|保险公司|-
+house insurance|住房保险|-
+assurance|人寿保险|n.
+life assurance|人寿保险|n.
+investment|投资|n.
+reinvest|再投资|v.
+funding|资金|n.
+work|工作|n.
+working|工作|n.
+workforce|劳动力|n.
+workplace|车间|n.
+workshop|工作室|n.
+workload|工作量|n.
+worksheet|工作表|n.
+practical work|实践工作|-
+worker|工人|n.
+former worker|离职员工；前任员工|-
+labor|劳动力|n.
+staff|员工|n.
+comer|来者|n.
+employee|雇员|n.
+employer|雇主|n.
+unemployed|失业的|adj.
+job|工作|n.
+full time|全职|-
+part time|兼职|-
+interview|面试|n.
+interview question|面试问题|-
+phone interview|电话面试|-
+job interview|求职面试|-
+interview skills|面试技巧(复)|-
+job application|求职申请|-
+issue|发布|v.
+invitation|邀请|n.
+placement|安排|n.
+placement test|定职测验|-
+hire|雇佣；租用|v.
+recruit|招募；新成员|v./n.
+retired|退休的|adj.
+dismiss|解散；解雇；驳回|v.
+reward|报酬；奖励|n.
+earn|收入|v.
+salary|工资|n.
+wages|工资(复)|n.
+income|收入|n.
+low income|低收入|-
+bonus|奖金|n.
+welfare|福利|n.
+allowance|补贴|n.
+compensation|补偿|n.
+sick pay|病假津贴|-
+office|办公室|n.
+career office|(大学)就业指导办公室|-
+large office|大办公室|-
+future career|前程|-
+future|未来|n.
+training|培训|n.
+retrain|再培训|n.
+further training|进修|-
+further|更远的|adj.
+promotion|促进；提升|n.
+city|城市|n.
+city centre|市中心|-
+urban|城市|n.
+urban area|城区|-
+regional|区域性的|adj.
+area|地区；区域|n.
+smaller area|更小的地方|-
+district|地区|n.
+territory|领土|n.
+population|人口|n.
+resident|居民|n.
+citizen|市民|n.
+crowded|拥挤的|adj.
+large|大的|adj.
+large scale|大规模的|-
+centre|中心|n.
+central|中心的|adj.
+central location|核心区|-
+town|镇|n.
+town hall|市政厅|-
+landmark|地标|n.
+public|公众的；公开的|adj.
+public square|公共广场|-
+public area|公共区域|-
+common|常见的|adj.
+common room|公共休息室|-
+builder|建造师；创建者|n.
+building|建筑物|n.
+planner|规划师|n.
+construction|建造；构造|n.
+castle|城堡|n.
+churches|教堂(复)|n.
+palace|宫殿|n.
+tower|塔；塔楼|n.
+hall|大厅|n.
+block|街区|n.
+square|广场|n.
+infrastructure|基础设施|n.
+utility|公共事业|n.
+road|道路|n.
+road map|路线图|-
+smooth road|平稳的道路|-
+smooth|平坦的|adj.
+street|街道|n.
+bridges|桥(复)|n.
+tunnel|隧道|n.
+dam|水坝|n.
+harbour|港口|n.
+port|港口|n.
+native|本地的|adj.
+nonnative|引进的|-
+none|没有|adj.
+community|社区|n.
+local|当地的|adj.
+local community|地方社区|-
+location|位置|n.
+position|位置|n.
+garden|花园|n.
+garden tool|园林工具|-
+gardening|园艺|n.
+park|公园|n.
+government|政府|n.
+government election|政府选举|-
+government policy|政府政策|-
+government agencies|政府机构(复)|-
+authority|权威，权力|n.
+supervision|监管|n.
+ban|禁令，禁止|n.
+permit|许可|n.
+permission|许可|n.
+tax|税|n.
+immigrant|移民|n.
+immigration|移居|n.
+policy|政策|n.
+politics|政治，政治事务|n.
+politician|政治家|n.
+vote right|投票权|-
+democratic|民主的|adj.
+president|总统|n.
+army|军队|n.
+soldier|战士|n.
+ranger|游击|n.
+weapon|武器|n.
+shoot|射击|v.
+gun|枪|n.
+alarm|警报|n.
+alarming system|警报系统|-
+personal alarm|个人警报器|-
+police|警察|n.
+police helicopter|警用直升机|-
+crime|犯罪|n.
+prison|监狱|n.
+prisoner|囚犯|n.
+safe|安全的|adj.
+safety|安全|n.
+safeguard|保护|n.
+safety regulation|安全法规|-
+safety check|安全检查|-
+security|安全；保证|n.
+security officer|保安|-
+guard|警卫|n.
+film|电影|n.
+filmed|拍摄|v.
+microfilm|微电影|n.
+comedy|喜剧|n.
+cartoon|动画片|n.
+comics|连环画(复)|n.
+joke|笑话|n.
+humor|幽默|n.
+director|导演|n.
+actor|演员|n.
+movie|电影|n.
+theater|电影院|n.
+cinema|电影院|n.
+audience|观众；听众|n.
+music|音乐|n.
+write music|写歌|-
+music festival|音乐节|-
+music concert|演唱会|-
+music video|音乐录影带|-
+live music|现场音乐|-
+background music|背景音乐|-
+band|乐队|n.
+opera|歌剧|n.
+concert|音乐会|n.
+concert room|音乐厅|-
+concert hall|音乐厅|-
+singer|歌手|n.
+singing|唱歌|n.
+song|歌曲|n.
+jazz|爵士乐|n.
+composer|作曲家|n.
+composing|作曲|n.
+tape|磁带|n.
+recorder|录音机|n.
+tape recorder|录音机|n.
+recording|录音；唱片|n.
+record|记录；档案|n.
+receiver|接收者；收音机|n.
+instrument|乐器；工具|n.
+drum|鼓|n.
+guitar|吉他|n.
+trumpet|喇叭；小号|n.
+piano|钢琴|n.
+flute|长笛|n.
+violin|小提琴|n.
+dance|舞蹈|n.
+dancing|跳舞|n.
+dance class|舞蹈班|-
+dance show|舞蹈表演|-
+drama|戏剧|n.
+arts|文科；艺术(复)|n.
+art gallery|画廊|n.
+artists|艺术家(复)|n.
+drawing|绘画|n.
+portrait|肖像|n.
+realism|现实主义|n.
+realistic|现实的；实际的|adj.
+symbolism|象征主义|n.
+symbol|符号|n.
+graphic|图像；图形的|n./adj.
+design|设计|v.
+design research|设计研究|-
+designer|设计师|n.
+photo|照片|n.
+picture|照片|n.
+picture library|照片库|n.
+pattern|图案，模式|n.
+images|图像(复)|n.
+painter|画家|n.
+painting|绘画|n.
+painting class|绘画课|-
+gallery|画廊|n.
+open|打开|v.
+open gallery|敞廊|-
+display|展示|v.
+exhibition|展览|n.
+exhibitor|展览者|n.
+literature|文学著作|n.
+story|故事|n.
+story conference|故事会议|-
+culture|文化|n.
+cultural|文化的|adj.
+culture context|文化背景|-
+culture awareness|文化意识|-
+edit|编辑|v.
+editor|编辑|n.
+content|内容|n.
+context|语境；背景|n.
+poet|诗人|n.
+writing|写作|n.
+written|书面的|adj.
+written language|书面语|-
+journal|日记|n.
+diaries|日记(复)|n.
+word|词|n.
+vocabulary|词汇|n.
+grammar|语法|n.
+English|英语|n.
+language|语言|n.
+modern|现代的|adj.
+modern language|现代语言|-
+campus|校园|n.
+notice board|布告栏|-
+poster|海报|n.
+post design|海报设计|-
+participation|参与；参加|n.
+activities|活动(复)|n.
+enjoy|享受|v.
+enjoyable|有乐趣的|adj.
+excitement|兴奋|n.
+interest|兴趣|n.
+personal interest|个人兴趣|-
+entertain|使有兴趣|v.
+entertainment|娱乐|n.
+passion|激情|n.
+leisure|休闲|n.
+parties|聚会(复)|n.
+afterschool|课后的|adj.
+game|游戏|n.
+game room|游戏室|-
+chess|国际象棋|n.
+play area|游乐场|-
+playroom|游戏室|n.
+playground|操场|n.
+sports|运动(复)|n.
+sports equipment|运动装备|-
+sports service|体育服务|-
+outdoor|户外|n.
+outside|外部|n.
+exercises|运动(复)|n.
+sensible exercise|合理的运动|-
+regular exercise|常规训练|-
+regular|有规律的|adj.
+practice|练习|n.
+practical|实际的|adj.
+practical course|实践课|-
+sports centre|运动中心|-
+sports hall|体育馆|-
+stadium|体育场|n.
+health club|健康俱乐部|-
+fitness centre|健身中心|-
+gym|健身房|n.
+club|俱乐部|n.
+club office|俱乐部办公室|-
+clubroom|俱乐部聚会室|n.
+girl club|女子俱乐部|-
+joining fees|入会费(复)|-
+member|会员|n.
+membership|会员|n.
+action|动作；作用|n.
+action point|行动要点|-
+movement|移动|n.
+competition|竞赛|n.
+competitive|竞赛的|adj.
+ball|球|n.
+baseball|棒球|n.
+coaches|教练(复)|n.
+baseball coach|棒球教练|-
+football|足球|n.
+soccer|足球|n.
+stopwatch|码表|n.
+cycling|骑自行车|n.
+surfing|冲浪运动|n.
+wind surfing|冲浪|-
+swim|游泳|n.
+swimming pool|游泳池|-
+diving|潜水|n.
+mask|面具|n.
+diving mask|潜水面罩|-
+rescue diver|救援潜水员|-
+wetsuit|潜水服|n.
+snow boarding|滑雪板|-
+golf|高尔夫|n.
+golf court|高尔夫球场|-
+judo|柔道|n.
+yoga|瑜伽|n.
+tennis|网球|n.
+tennis court|网球场|-
+table tennis|乒乓球|-
+race|赛跑|n.
+runner|跑步者|n.
+walking|徒步|n.
+walking boots|徒步鞋(复)|-
+badge|徽章|n.
+prizes|奖品(复)|n.
+weight|体重|n.
+weight class|重量级|-
+lateralline|体测线；支线|-
+heavy|重的|adj.
+lifting|举起|v.
+strong|强壮的|adj.
+strength|力量|n.
+lecture|讲座(复)|n.
+lecturer|演讲者|n.
+short|短的|adj.
+short lecture|简短演讲|-
+speaker|演讲者；话筒|n.
+present|呈现；展示|v.
+presentation|演讲|n.
+slide|幻灯片|n.
+slide presentation|幻灯片展示|-
+presentation skill|演讲技巧|-
+presenting result|展示结论|-
+seminar|讲座|n.
+seminar group|讨论组|-
+seminar room|研讨室|-
+representation|表现|n.
+performance|表现|n.
+effect|效果|n.
+effectiveness|有效性|n.
+efficiency|效果|n.
+efficient|有效率的|adj.
+project|项目，计划|n.
+project background|课题背景|-
+project outline|设计方案，项目大纲|-
+report|报告|n.
+report finding|报告|-
+experiment|实验|n.
+microscope|显微镜|n.
+microradiogram|X光片|-
+sample|样品；例子|n.
+mould|模具；塑造|n./v.
+model|模型|n.
+solid|固体|n.
+liquid|液体|n.
+fluid|液体|n.
+research|研究|n.
+research approach|研究方法|-
+research finding|研究成果|-
+researcher|研究员|n.
+field|领地；领域|n.
+fieldwork|实地调查|n.
+wrong|错误的|adj.
+incorrect|错误的|adj.
+error message|错误信息|-
+mistake|错误|n.
+correction|修改|n.
+version|版本|n.
+format|格式|n.
+heading|标题|n.
+title|标题|n.
+topic|话题|n.
+subtopic|副标题|n.
+theory chapter|理论章节|-
+theoretical|理论上的|adj.
+font|字型，字体|n.
+paragraphs|段落(复)|n.
+section|部分|n.
+stages|阶段；步骤(复)|n.
+order|顺序|n.
+analysis|分析；分解|n.
+attitude|态度|n.
+opinion|观点|n.
+statement position|立场声明|-
+mission statement|宣言|-
+explain|解释|v.
+explanation|解释|n.
+argument|论据；争论|n.
+fact|现实；证据|n.
+priority|优先|n.
+second|第二的；次要的|adj.
+summarize|总结|v.
+summary|概括的；概要的|adj.
+summary report|总结报告|-
+conclusion|结论|n.
+outcome|结果|n.
+library|图书馆|n.
+reading|阅读|n.
+read aloud|阅读|-
+read difficulty|阅读障碍|-
+book|书本|n.
+bookshelf|书架|n.
+bookshop|书店|n.
+booklet|小册子|n.
+free booklet|赠阅册子|-
+manual|手册|n.
+references|参考(复)|n.
+reference number|参考编号|-
+index|索引|n.
+categories|类别(复)|n.
+classifying|归类|v.
+classification|分类|n.
+attachment|附件|n.
+article|文章|n.
+document|文档|n.
+documentation|文件|n.
+documentary|文件|n.
+file|文件|n.
+archive|存档；档案；档案室|n.
+handouts|讲义(复)|n.
+handbook|手册|n.
+copy|复制|v.
+photocopy shop|复印店|-
+photocopies|复印(复)|n.
+printer|打印机|n.
+printing|打印|n.
+printing press|印刷厂|-
+printing technology|印刷工艺|-
+type|打字|v.
+typing|打字|n.
+paper|纸|n.
+paper jam|卡纸|-
+pen|笔|-
+pencil|铅笔|n.
+ink|墨水|n.
+chalk|粉笔|n.
+textbook|教材|n.
+textbooks allowance|教材补助|-
+textbook lesson|教材课|-
+text structure|文章结构|-
+knowledge sharing|知识共享|-
+knowledge|知识|n.
+learn|学习|v.
+learner|学习者|n.
+learning|学习|n.
+learning difficulty|学习障碍|-
+learning style|学习风格|-
+learning zone|学习专区|-
+distance learning|远程教育|-
+professional|专业的|adj.
+professional learning|专业学习|-
+study|学习|n.
+study skill|学习技巧|-
+comprehension|理解|n.
+aware|意识到的|adj.
+acknowledgment|公认|n.
+understand|理解|v.
+share|分享|v.
+sharing|分享|n.
+idea|想法|n.
+share ideas|分享观点|-
+approach|接近；方法|v./n.
+method|方法|n.
+methodology|方法论|n.
+plan|规划|v.
+planning|计划制订|n.
+plan time|规划时间|-
+case studies|案例研究(复)|-
+example|例子|n.
+general discussion|综合讨论|-
+general|普遍的；一般的|adj.
+homework|家庭作业|n.
+note|笔记|n.
+notetaking|笔记|n.
+make notes|做笔记|-
+notebook|笔记本|n.
+note system|笔记系统|-
+outline|概述|n.
+guideline|指导方针|n.
+object|目标|n.
+objective|目标；客观的|n./adj.
+objective matter|目标物|-
+purpose|目的|n.
+prepared|准备好的|adj.
+preparation|准备|n.
+exam|考试|n.
+exam preparation|备考|-
+quizzes|测验(复)|n.
+test|测试|n.
+result|结果|n.
+test result|测试结果|-
+academic record|学习成绩|-
+achievement|完成，达到|n.
+local school|本地学校|-
+primary school|小学|-
+primary|主要的；最初的|adj.
+secondary school|中学|-
+secondary|中等的|adj.
+summer school|暑期学校|-
+nursery|幼儿园|n.
+education|教育|n.
+education officer|教育官员|-
+education plan|教育规划|-
+educational|教育的|adj.
+student|学生|n.
+student card|学生卡|-
+student loan|学生贷款|-
+student union|学生会|-
+student service|学生服务|-
+first-year student|一年级学生|-
+first|第一|n.
+teacher|老师|n.
+teaching staff|教员|-
+professor|教员；教授|n.
+tuition|学费|n.
+admission|承认，准许进入|n.
+tutor|导师|n.
+personal tutor|个人导师|-
+tutorial|辅导课|n.
+university|大学|n.
+college|学院|n.
+department|院系|n.
+department head|系主任|-
+academic|学院的|adj.
+undergraduate|本科|n.
+semester|学期|n.
+term|学期；术语|n.
+degree|学位|n.
+grade|等级|n.
+diploma|文凭|n.
+certificate|认证|n.
+qualification|合格|n.
+quality|质量|n.
+course|课程|n.
+course code|课程代码|-
+coursework|授课|n.
+programme|课程|n.
+subject|学科|n.
+discipline|纪律；学科|n.
+compulsory|必修的|adj.
+classroom|教室|n.
+classroom tour|教室参观|-
+lab|实验室|n.
+self-access lab|24小时实验室|-
+laboratory|实验室|n.
+laboratories report|实验室报告|-
+calendar|日历|n.
+timetable|时间表|n.
+time|时间|n.
+minute|分钟|n.
+hour|小时|n.
+daily|每日的；日常的|adj.
+daily routine|日常事务|-
+geographical|地理学的|adj.
+altitude|高度；海拔高度|n.
+sea level|海平面|-
+atlas|地图册|n.
+map|地图|n.
+mapping|绘制地图；地图|v./n.
+circulation|循环|n.
+oxygen|氧气|n.
+ozone layer|臭氧层|n.
+layer|层；层次|n.
+seasonal|季节性的|adj.
+spring|春天|n.
+summer|夏天|n.
+autumn|秋天|n.
+winter|冬天|n.
+earth|地球|n.
+planet|行星|n.
+planet science|行星科学|-
+day|白天|n.
+daylight|日光|n.
+morning|早上|n.
+evening|晚上|n.
+evening news|晚间新闻|-
+night|夜晚|n.
+night tour|夜游|-
+night shift|夜班|-
+star|星星|n.
+moonlight|月光|n.
+solar|太阳能|n.
+solar energy|太阳能|-
+solar power|太阳能|-
+sun|太阳|n.
+sun flower|向日葵|-
+sunset|日落|n.
+suncream|防晒霜|n.
+sunscreen|防晒霜|n.
+sun hat|遮阳帽|-
+sun position|太阳位置|-
+sunlight|阳光|n.
+water|水|n.
+watering|浇水|n.
+watering plants|浇水|-
+waterproof|防水|v.
+water level|水位|n.
+water collection tank|集水箱|-
+continent|大陆|n.
+desert|沙漠|n.
+desert location|沙漠地区|-
+hill|丘陵|n.
+mountain|山|n.
+mountain bike|山地自行车|-
+land|土地|n.
+land bridge|陆桥|-
+cave|洞|n.
+hole|孔；漏洞|n.
+cliff|悬崖|n.
+edges|边缘(复)|n.
+rock|岩石|n.
+stone|石头|n.
+limestone|石灰岩|n.
+magnet|磁体；磁石|n.
+mud|泥|n.
+soil|土壤|n.
+clay|黏土|n.
+sand|沙子|n.
+sandy|含沙的|adj.
+sandglasses|沙漏(复)|n.
+soft sediment|软沉淀|-
+soft|软的|adj.
+ash|灰|n.
+volcanic ash|火山灰|n.
+dirt|污垢|n.
+mining|采矿|n.
+mineral|矿物|n.
+mineral soil|矿质土壤|-
+resources|资源(复)|n.
+coal|煤炭|n.
+metal|金属|n.
+gold|黄金|n.
+carbon|碳|n.
+fountain|泉|n.
+stream|小溪|n.
+waterfall|瀑布|n.
+coast|海岸|n.
+coastal|沿海的|adj.
+coastline|海岸线|n.
+coastal cities|沿海城市(复)|-
+beach|海滩|n.
+tides|浪(复)|n.
+sill|海底山脊；岩床|n.
+ocean|海洋|n.
+ocean condition|海洋条件|-
+current|洋流|n.
+sea|海|n.
+seagrass|海草|n.
+sea view|海景|-
+lake|湖|n.
+lakeside|湖边|n.
+pool|水池|n.
+padding pool|浅水池塘|-
+shallow|浅的|adj.
+river|河流|n.
+riverside|河边|n.
+river trip|泛舟游览|-
+river view|江景|-
+natural|自然的|adj.
+nature|自然|n.
+unnatural|不自然的|adj.
+habitat|栖息地|n.
+undeveloped|未开发的|adj.
+environment|环境|n.
+environment agency|环保署|-
+environment damage|环境损害|-
+environment issues|环境问题(复)|-
+sustainable|可持续的|adj.
+ecosystem|生态系统|n.
+system|系统|n.
+global warming|全球变暖|-
+hot house|温室|-
+pollution|污染|n.
+air pollution|空气污染|-
+pollutant|污染物|n.
+contaminated|被污染的|adj.
+chemical contaminant|化学污染物|-
+water pollution|水污染|-
+water quality|水质|-
+water treatment|水处理|-
+filter|过滤|n.
+pure|纯净的|adj.
+transparency|透明度|n.
+fell|砍伐|v.
+green tax|环保税|-
+alternative energy|替代能源|-
+recycled material|可再生材料|-
+recycling|循环|n.
+climate|气候|n.
+weather|天气|n.
+weather observing|天气观测|-
+hot weather|热天气|-
+tropical|热带的|adj.
+temperature|温度|n.
+high|高的|adj.
+high temperature|高温|-
+higher|更高的|adj.
+warm|温暖的|adj.
+warm climate|温暖气候|-
+warm up|变热；热身|-
+heat|热；温度|n.
+damp|潮湿|n./adj.
+humidity|湿热|n.
+moisture|水分；湿度|n.
+evaporation|蒸发|n.
+steam|蒸汽|n.
+drought|旱灾；干旱|n.
+dried|干燥的|adj.
+dry|干燥的|adj.
+drying|干燥|n.
+dry season|旱季|-
+cloud|云|n.
+rain|雨|n.
+rainfall|降雨量|n.
+rain water|雨水|-
+rainbow|彩虹|n.
+air|空气；天空|n.
+air quality|空气质量|-
+air pump|空气泵|-
+flooding|泛滥|n.
+floodwater|洪水|n.
+hurricane|飓风|n.
+wind|风|n.
+storm|风暴|n.
+thunderstorm|暴风雨|n.
+self-evaluation|自我评价|-
+assessment|评估，估价|v.
+ability|能力；资格|n.
+improvement|改进|n.
+reinforce|增强；加强|v.
+effort|努力|n.
+confidence|信心|n.
+clever|聪明的|adj.
+brilliant|才华横溢的|adj.
+intelligence|智力|n.
+intelligent|有才智的|adj.
+savvy|机智的|adj.
+think quickly|思维敏捷|-
+logic|逻辑|n.
+gift|天赋|n.
+talent|天赋|n.
+invent|编造；发明|v.
+innovation|创新|n.
+originality|创造性|n.
+origin|起源|n.
+creativity|创造力|n.
+creation|创造|n.
+outstanding|杰出的|adj.
+excellent|优秀的|adj.
+skill|技能|n.
+skills focus|技术专攻|-
+negotiation skill|谈判技巧|-
+communication skill|交流技能|-
+problem solving|解决问题|-
+problem|问题|n.
+strategies|策略(复)|n.
+vision|视野|n.
+morality|道德|n.
+kindness|仁慈|n.
+loyal|忠诚的|adj.
+loyalty|忠诚|n.
+honest|诚实的|adj.
+reliable|信赖|n.
+trust|相信|n.
+responsible|有责任的；负责的|adj.
+responsibility|责任|n.
+obligation|义务|n.
+patience|耐心|n.
+Self-centered|自私的|-
+success|成功|n.
+company|公司|n.
+private company|私人公司|-
+Self-employed|个体经营|-
+head office|总部|-
+finance office|财务室|-
+organization|组织|n.
+organize|组织|v.
+team|队伍|n.
+group|团体|n.
+group size|团体大小|-
+group organizer|团体主办单位|-
+meeting|会议|n.
+formal meeting|正式会议|-
+group meeting|团体会议|-
+conference|会议|n.
+conference centre|会议中心|-
+session|会议|n.
+conversation|谈话|n.
+discussion|讨论|n.
+discussion group|讨论组|-
+group discussion|小组讨论|-
+interaction|互动|n.
+translator|翻译员|n.
+translation|翻译|n.
+rival|竞争对手|n./v.
+cooperative|合作的|adj.
+cooperation|合作|n.
+collaborative|协作的|adj.
+combination|结合，联合|n.
+joint|联合的|adj.
+teamwork|团队合作|-
+administration|管理|n.
+business|生意；商业|n.
+management|管理|n.
+business management|工商管理|-
+business plan|商业计划|-
+business area|商务区|-
+business visit|商务考察|-
+business study|商业研究|-
+budget|预算|n.
+annual report|年报|-
+market|市场|n.
+marketing|市场营销|n.
+advertise|广告|v.
+advertising|广告；做|n./v.
+advertisement|广告|n.
+profit|利润|n.
+revenue|收益|n.
+financial result|财务业绩|-
+benefit|好处|n.
+risk|风险|n.
+take risks|冒险|-
+closed|关闭的|adj.
+closed down|倒闭了|-
+chief executive|总裁；首席执行官|-
+chairman|主席|n.
+administration officer|行政官|n.
+lead|领导|n.
+leader|领导者|n.
+leadership style|领导风格|-
+council|委员会|n.
+consultant|顾问|n.
+advisor|顾问|n.
+senior advisor|高级顾问|-
+offer advice|出谋划策|-
+expert|专家|n.
+specialist|专家；专业|n.
+secretary|秘书|n.
+manager|经理|n.
+department manager|部门经理|-
+senior management|高管|-
+animal|动物|n.
+mammal|哺乳动物|n.
+wildlife|野生动物|n.
+wild|荒野|n.
+vet|兽医|n.
+bird|鸟|n.
+bird park|鸟类公园|-
+birdwatching|观鸟|-
+nest|巢|n.
+nesting|筑巢|v.
+feather|羽毛|n.
+wing|翅膀|n.
+fish|鱼；鱼肉|n.
+fishing|钓鱼|n.
+fishing lesson|钓鱼课|n.
+fishing boat|渔船|-
+biological fishing|生物捕捞|-
+fishing net|渔网|-
+frog|青蛙|n.
+crocodile|鳄鱼|n.
+dolphin|海豚|n.
+seal|海豹；印章；封印|n./v.
+shark|鲨鱼|n.
+whale|鲸鱼|n.
+shell|壳|n.
+shellfish|贝类动物|n.
+shrimp|小虾|n.
+tuna|金枪鱼|n.
+rat|老鼠|n.
+snake|蛇|n.
+camel|骆驼|n.
+kangaroo|袋鼠|n.
+monkey|猴子|n.
+lion|狮子|n.
+insect|昆虫|n.
+worm|虫子|n.
+butterflies|蝴蝶(复)|n.
+spider|蜘蛛|n.
+fly|苍蝇|n.
+herbivore|食草动物|n.
+herd|(牛)群|n.
+cattle|牛|n.
+dog|狗|n.
+donkey|驴|n.
+sheep|绵羊|n.
+wool|羊毛|n.
+duck|鸭子|n.
+geese|鹅(复)|n.
+swan|天鹅|n.
+rabbit|兔子|n.
+horse riding|骑马|-
+horse hair|马毛|-
+sable|貂皮|n.
+pet|宠物|n.
+adopt|收养；采用|v.
+behavior|行为|n.
+animals behavior|动物行为|n.
+animal life|动物生活|-
+breed|繁殖|v.
+reproduction|繁殖|n.
+evolution|进化；演变|n.
+defense|防卫|n.
+self-defense|自卫|-
+resistant|抵抗的|adj.
+fight|战斗|n.
+fighting|战斗|n.
+attack|攻击|v.
+strike|打击|n.
+instinctive|直觉的；本能的|adj.
+react|做出反应|v.
+reaction|反应|n.
+reflective|反射的|adj.
+feeding|喂食|n.
+feeding time|喂食时间|-
+feed animals|喂动物|-
+migrant|移民；候鸟|n.
+migration|迁移|n.
+migration pattern|洄游路线|-
+route|路线|n.
+hunting|打猎|n.
+rape|掠夺|v.
+trace|追踪；痕迹|v./n.
+human|人类|n.
+human activities|人类活动(复)|-
+impact|冲击；影响|v./n.
+threat|威胁|n.
+danger|危险|n.
+in danger|处在危险当中|-
+harm|伤害|n.
+harmful|有害的|adj.
+hurt|受伤|v.
+damage|损害|n.
+existing|现存的|adj.
+survival|幸存|n.
+decline|下降|n.
+decrease|减少|n.
+reduction|减少|n.
+rare|极少的；稀有的|adj.
+disappear|消失|v.
+destroy|毁灭|v.
+donation|捐款|n.
+voluntary|自愿的|adj.
+safari park|野生动物园|-
+state park|州立公园|-
+national park|国家公园|-
+zoo|动物园|n.
+conservation|保护|n.
+protect|保护|v.
+protection|保护|n.
+protection policy|保护政策|-
+balance|平衡|n.
+diversity|多样性；多样化；多样性，差异|n.
+vary|变化|v.
+variety|多样化|n.
+variable|多变的|adj.
+various|各种各样的|adj.
+variation|变化；变量|n.
+control|控制|v.
+plants|植物(复)|n.
+plantation|种植园|n.
+marine plants|海洋植物(复)|-
+bushes|灌木丛(复)|n.
+vegetation|植被|n.
+shade|树荫；阴影|n.
+sheet|一大片覆盖物|n.
+cover|遮盖|v.
+grasses|草(复)|n.
+grassland|草地|n.
+grass ground|草地|-
+grass leaves|草叶(复)|-
+weed|杂草；除草|n./v.
+weeding|除草|v.
+growing|生长的|adj.
+seeds|种子(复)|n.
+root|根|n.
+stem|茎|n.
+sting|刺|n.
+spine|植物上的刺|n.
+trunk|树干|n.
+branches|分支；树枝(复)|n.
+bunch|束；串；扎|n.
+leaf|叶子|n.
+leaves|叶子(复)|n.
+flower|花|n.
+rose|玫瑰|n.
+tree|树|n.
+rare tree|珍稀树种|-
+forest|森林|n.
+forestry|林业|n.
+campsite|营地|n.
+forest campsite|森林营地|-
+camp|营地|n.
+tent|帐篷|n.
+wood|木材|n.
+woodland|林地|n.
+timber|木材|n.
+creature|生物|n.
+biology|生物学|n.
+microbiology|微生物学|n.
+tissue|生物组织|n.
+cell|细胞|n.
+bacteria|细菌(复)|n.
+germ|细菌|n.
+gene|基因|n.
+genetic|基因的|adj.
+engineer|工程师|n.
+engineering|工程学|n.
+engineering faculty|工程院|-
+electronic|电子的|adj.
+electrical|用电的；与电有|adj.
+electric car|电动车|-
+electric field|电场|-
+electronic directory|电子目录|-
+electronic card|电子卡|-
+electricity|电力|n.
+electricity supply|电力供应|-
+power|功率|n.
+water power|水力|-
+capacity|容量|n.
+space|太空|n.
+space museum|太空博物馆|-
+space station|空间站|-
+satellite|卫星|n.
+rocket|火箭|n.
+science|科学|n.
+scientist|科学家|n.
+scientific|科学的|adj.
+exploration|探索|n.
+scientific exploration|科学探索|-
+scientific research|科学研究|-
+advanced|先进的；高等的|adj.
+advance level|先进水平；高级水平|-
+chemical|化学的|adj.
+chemist|药房；化学家|n.
+chemistry lab|化学实验室|-
+compound|复合物；化合物；混合|n./v.
+complex|复杂的|adj.
+mixed|混合的|adj.
+mixture|混合；混杂|n.
+confusion|混淆|n.
+burning time|燃烧时间|-
+protective clothing|防毒服|-
+industry|工业|n.
+industrial|工业的|adj.
+factory|工厂|n.
+toy factory|玩具工厂|-
+toy|玩具|n.
+machine|机械|n.
+machinery|机器|n.
+mechanism|机制；机械装置|n.
+energy|能源|n.
+Energy-saving|节能|-
+fuel|燃料|n.
+fuel shortage|石油短缺|-
+manufacture|制造；制造；生产|n./v.
+manufacturing|制造业|n.
+manufacturer|制造商|n.
+processing|进程；加工|n.
+procedure|进程；加工|n.
+produce|生产|v.
+productivity|生产率|n.
+packing|包装|n.
+packing material|包装材料|-
+package|包裹|n.
+packaging|包装|n.
+material|材料|n.
+plastic|塑料|n.
+plastic bag|塑料袋|-
+nylon|尼龙|n.
+rubber|橡胶|n.
+rubber blanket|橡胶垫|-
+wax|蜡|n.
+concrete|水泥|n.
+steel|钢铁制品|n.
+brick|砖头|n.
+agricultural|农业的|adj.
+agriculture|农业|n.
+crop|作物|n.
+grain|粮食|n.
+cotton|棉花|n.
+harvest|收获|n.
+fertilize|施肥|v.
+pest|害虫|n.
+pesticide|农药；杀虫剂|n.
+irrigating|灌溉|v.
+irrigation|灌溉|n.
+farmer|农民|n.
+farming|务农|n.
+farming product|农产品|-
+world|世界|n.
+global|全球的|adj.
+global market|全球市场|-
+expand|扩张|v.
+expansion|扩张|n.
+international|国际的|adj.
+international express|国际快递|-
+international study|国际研究|-
+export|出口|v.
+import|进口|v.
+trade|贸易|n.
+traders|交易员|n.
+trade journal|行业杂志|-
+distribution|供应；分配|n.
+distribute|分配；散布|v.
+silk|丝绸|n.
+textile|纺织品|n.
+developing countries|发展中国家(复)|-
+development|发展|n.
+develop|发展|v.
+history|历史|n.
+historical map|历史地图|-
+historical photograph|历史照片|-
+classical history|古典历史|-
+classical|古典的|adj.
+museum|博物馆|n.
+local museum|本地博物馆|-
+museum centre|博物馆中心|-
+previous|以前的；先前的|adj.
+complete|完整的|adj.
+integrate|完整的；使......成整体；整合|adj./v.
+segments|碎片(复)|n.
+confirm|证实|v.
+demonstration|证明|n.
+proof|证据|n.
+evidence|证据|n.
+identify|鉴别；确认；发现|v.
+identification|鉴定|n.
+value|价值|n.
+collection|收集|n.
+collecting|收集|n.
+collector|采集者|n.
+monuments|纪念碑|n.
+myth|神话|n.
+ceremony|仪式|n.
+puzzle|迷；疑问|n.
+unanswered|未解答的|adj.
+answer|回答|v.
+background|背景|n.
+wall|墙壁|n.
+temple wall|寺庙墙壁|-
+preserved|保存；保留|v.
+preservation|保存，保护|n.
+items|物品(复)|n.
+craft|(尤指手工)精心制做|v.
+souvenir|纪念品|n.
+artificial|人工的；人造的；仿造的|adj.
+man-made|人造的|-
+sculpture|雕塑；雕像|n.
+wooden sculpture|木制雕塑|-
+jewelry|珠宝|n.
+crown|皇冠|n.
+arrow|箭|n.
+spear|矛|n.
+peg|固定在；钉在|v.
+buried|被埋葬|v.
+depth|深度|n.
+underground|地下|n.
+emperor|皇帝|n.
+king|国王|n.
+queen|女王|n.
+slave|奴隶|n.
+tribe|部落，部族|n.
+local tribe|当地部族|-
+colony|殖民；殖民地|n.
+pirates|海盗(复)|n.
+settle|定居|n./v.
+religion|宗教|n.
+philosophy|哲学|n.
+philosopher|哲学家|n.
+publishing|出版|n.
+publication|出版物；出版|n.
+magazine|杂志|n.
+journalism|新闻|n.
+photo journalism|新闻摄影|-
+journalist|记者|n.
+reporter|记者|n.
+newspapers|报纸|n.
+national newspaper|国家级报纸|-
+radio|收音机|n.
+radio program|收音机节目|-
+radio signal|无线信号|-
+media|媒体|n.
+media plan|媒体计划|-
+media studies|大众传播学|-
+multimedia resources|多媒体资源(复)|-
+screen|屏幕|n.
+video|视频|n.
+video recording|录像|-
+video camera|摄像机|-
+videotape editor|录影编辑|-
+video subtitle|视频字幕|-
+subtitle|字幕|n.
+television program|电视节目|-
+television drama|电视剧|-
+math|数学|n.
+mathematics|数学|n.
+number|数字|n.
+calculator|计算器|n.
+calculation|计算|n.
+tape measurer|卷尺|-
+distance|距离|n.
+centimeter|厘米|n.
+kilometre|千米|n.
+measurement|测量|n.
+size|尺寸|n.
+length|长度|n.
+accuracy|精确性|n.
+accurate|精确的，准确的|adj.
+random|随机|n.
+freedom|自由|n.
+fluctuate|波动|v.
+different|不同的|adj.
+unsure|不确定的|adj.
+statistics|统计|n.
+average|平均的，平常的|adj.
+small scale|小范围|-
+range|区间|n.
+matching|相称的|adj.
+equal|相同的；平等的；相等的；胜任的|adj.
+similar|相似的|adj.
+comparison|比较|n.
+maximum|最大值|n.
+small|小的|adj.
+amount|数量；总额|n.
+entire|全部|n.
+total|总的|adj.
+whole|整个|n.
+half|一半|n.
+double|两倍|n.
+twice|两次；两倍|n.
+increase|增长|n.
+extra|额外的|adj.
+two|两个|n.
+vertical|垂直的|adj.
+straight|直的|adj.
+angle|角；角度|n.
+side|边|n.
+height|高度|n.
+top|顶部|n.
+top level|顶级|-
+middle|中间|n.
+intermediate|中间的|adj.
+moderate|中等的；适度的；缓和|adj./v.
+bottom|底部|n.
+lower|更低的|adj.
+shape|形状|n.
+surface|表面|n.
+round|围绕|prep.
+circle|圆圈|n.
+triangle|三角|n.
+triangle-shaped|三角形|n.
+computer|电脑|n.
+computer centre|计算机中心|-
+computer programmer|程序员|-
+computer office|电脑办公室|-
+computer science|计算机科学|-
+computer aid|计算机辅助|-
+hardware|硬件|n.
+keyboard|用键盘输入|v.
+monitor|显示器；监控；监视器|n./v.
+headphones|耳机(复)|n.
+software|软件|n.
+Internet|互联网|n.
+Internet cafe|网络咖啡厅|-
+Internet line|网线|-
+Internet connection|网络连接|-
+network|网络|n.
+net|网|n.
+website|网站|n.
+online|线上|n.
+online service|线上服务|-
+online shopping|网购|-
+online game|网游|-
+data|数据|n.
+data analysis|数据分析|-
+digital system|数字系统|-
+digital store|数字商店|-
+technical|技术的|adj.
+technician|技术员|n.
+technology|技术|n.
+information|信息|n.
+information sector|信息部门|-
+communication|通信；交流|n.
+communication system|通信系统|-
+email|邮件|n.
+email address|邮件地址|-
+mail|邮件|n.
+mailing list|邮寄名单|-
+fax|传真|n.
+message|消息|n.
+post|邮递；邮局|n.
+postcard|明信片|n.
+post office|邮局|-
+post postage|邮费|-
+post survey|邮寄调查|-
+letter|信|n.
+phone|电话|n.
+mobile phone|手机|-
+phone book|电话本|-
+phone number|电话号码|-
+phone statistics|电话统计|-
+phone card|电话卡|-
+telephone|电话|n.
+telephone survey|电话调查|-
+call|来电|n.
+call diversion|呼叫转移|-
+incoming call|打进来的电话|-
+resemble|像，与......相似；相似|v.
+recognize|认出，识别；承认|v.
+adjust|调整，使适合|v.
+fundamental|基本的，基础的|adj.
+rely on|依靠，依赖|-
+measure|测量|v.
+trait|特性，特征|n.
+prompt|促进，激起|v.
+exchange|交换|v.
+underlie|成为......基础；成为基础|v.
+ignore|忽视，不顾|v.
+fertilizer|化肥，肥料|n.
+rather than|而非，不是|-
+thanks to|由于，幸亏|phr.
+isolate|使隔离，使孤立|v.
+avoid|避免|v.
+adapt to|使适应|-
+alternative|供替代的，供选择的；替代品；替代方案；可选的|adj./n.
+compensate|补偿，赔偿|v.
+component|成分，要素；组件|n.
+military|军事的；军队|adj./n.
+criteria|标准|n.
+curriculum|课程|n.
+feasible|可行的|adj.
+constrain|束缚，限制|v.
+deficiency|缺陷，缺点|n.
+supplement|补充|v.
+distinguish|区别，辨别；区分|v.
+analyze|分析，解释|v.
+emphasize|强调，着重|v.
+enormous|巨大的，极大的|adj.
+imitate|模仿|v.
+impair|削弱，减少|v.
+hinder|阻碍|v.
+legitimate|合法的|adj.
+convention|手法；习俗|n.
+demanding|苛求的|adj.
+determine|决定|v.
+accelerate|加速，促进；强调；加速|v.
+ancient|古代的；古老的|adj.
+beneficial|有益的|adj.
+chronic|慢性的，长期性的|adj.
+conscious|有意识的，神志清醒的|adj.
+minimize|最小化，使......减到最小|v.
+immunity|免疫力|n.
+imperative|必要的，紧急的|adj.
+secrete|分泌|v.
+exaggerate|夸大，夸张|v.
+transmit|传达，传输|v.
+extinct|灭绝|v.
+exclusive|独有的；排外的；专一的；排他的；独有的|adj.
+guarantee|保证，担保|v.
+inherit|继承|v.
+witness|见证，证据；目击者|n.
+magnetic|有磁性的|adj.
+loss|减少；亏损；失败；遗失|n.
+option|选择|n.
+prefer to|更喜欢|-
+principle|原理|n.
+potential|潜能；潜在的|n./adj.
+quantity|量，数量|n.
+sophisticate|使复杂|v.
+specific|明确的；特殊的|adj.
+survive|存活，幸存|v.
+swift|迅速的，敏捷的，立刻的|adj.
+unexpectedly|出乎意料地；意外地|adv.
+surrounding|环境|n.
+attempt|试图，尝试|v.
+expertise|专门技术|v.
+faculty|能力，才能；全体教员|n.
+donate|捐赠|v.
+dynamics|动力学|n.
+incentive|刺激，鼓励；动机；激励|n.
+mortality|死亡率|n.
+peripheral|外围的，次要的|adj.
+vicinity|邻近，附近|n.
+threaten|威胁，危及|v.
+be subject to|受......支配|-
+be liable to|易于......|-
+innate|天生的；内在的，直觉的|adj.
+original|原始的，最初的|adj.
+confidential|机密的，秘密的|adj.
+cognitive|认知的|adj.
+comply with|照做，遵守|-
+consult|查阅，商量，请教，咨询|v.
+superior|上级的；优秀的；优越的；上级|adj./n.
+co-operation|合作，协作|n.
+co-ordinate|使......协调|v.
+differ|使......相异；使......不同|v.
+cue|线索|n.
+abandon|放弃，遗弃；抛弃|v.
+halt|停止|n.
+fragile|脆弱的|adj.
+retain|记住；保留|v.
+vanish|消失，绝迹；消失|v.
+erode|侵蚀|v.
+induce|引起，引诱|v.
+stable|稳定的|adj.
+grant|拨款；授予|v.
+adversity|逆境|n.
+aggression|侵犯|n.
+aid|援助|n.
+array|排列|n.
+association|协会|n.
+boundary|边界|n.
+burden|负担|n.
+calamity|灾难|n.
+comment|评论|n.
+commitment|承诺|n.
+conflict|冲突|n./v.
+correlation|关联；相关性|n.
+courtship|求爱|n.
+crash|碰撞|n.
+credibility|可信性|n.
+criminal|罪犯|n.
+crisis|危机|n.
+criticism|批评|n.
+delay|延迟|n.
+domain|领域|n.
+encyclopaedia|百科全书|n.
+entrepreneur|企业家|n.
+equator|赤道|n.
+estate|房地产；地产|n.
+famine|饥荒|n.
+foe|危害物|n.
+fragment|碎片|n.
+hardship|苦难|n.
+hypothesis|假设|n.
+installment|分期付款|n.
+interference|干涉|n.
+lack|缺乏|n.
+landscape|景观|n.
+likelihood|可能性|n.
+limb|四肢|n.
+look-in|机会|n.
+log|日志|n.
+malfunction|故障|n.
+mate|配偶|n.
+mercury|水银|n.
+motif|主题|n.
+norm|规范|n.
+notoriety|恶名|n.
+optimum|最佳效果|n.
+organ|器官|n.
+peak|顶点|n.
+phase|阶段|n.
+predict|预测|n./v.
+recreation|娱乐|n.
+rehearsal|排演|n.
+revision|修正|n.
+ruin|毁灭|n.
+skepticism|怀疑|n.
+solicitor|律师|n.
+stride|进展|n.
+substance|物质|n.
+sufficiency|充足|n.
+supremacy|至高地位|n.
+symptom|症状|n.
+tension|紧张|n.
+theme|主题|n.
+toll|通行费|n.
+utilization|利用|n.
+wellbeing|健康|n.
+accumulate|积累|v.
+approve|批准|v.
+assign|分配|v.
+bear|承担|v.
+blight|损害|v.
+bungle|搞砸|v.
+certify|证明|v.
+cater|迎合|v.
+commute|通勤|v.
+compare|比较|v.
+conceal|隐藏|v.
+concur|同意|v.
+confer|授予|v.
+confuse|使困惑|v.
+designate|指定|v.
+detain|扣留|v.
+devastate|摧毁；毁灭|v.
+disclose|揭露|v.
+disrupt|破坏|v.
+distract|分心；分散注意力|v.
+evolve|进化|v.
+exploit|利用；开发；剥削|v.
+extend|扩展|v.
+extract|提取；摘录|v./n.
+fulfill|实现|v.
+harbor|怀有|v.
+indulge|沉溺|v.
+infest|侵扰|v.
+interrupt|打断|v.
+involve|涉及|v.
+manifest|表现|v.
+migrate|迁移|v.
+obscure|掩盖|v.
+obtain|获得|v.
+overcome|克服|v.
+paralyse|麻痹|v.
+participate|参与|v.
+persuade|说服；劝说|v.
+plagiarise|抄袭|v.
+plot|密谋|v.
+pose|提出|v.
+prohibit|禁止|v.
+prolong|延长|v.
+promote|促进|v.
+prosper|繁荣|v.
+purify|净化|v.
+qualify|取得资格|v.
+reject|拒绝|v.
+reproduce|繁殖|v.
+revive|复苏|v.
+steer|引导|v.
+stimulate|刺激|v.
+succumb|屈服|v.
+subdivide|细分|v.
+supersede|取代|v.
+suppress|压制|v.
+transcend|超越|v.
+transit|运输|v.
+trigger|触发；扳机|v./n.
+underestimate|低估|v.
+yield|生产|v.
+addictive|上瘾的|adj.
+agreeable|令人愉快的|adj.
+allergic|过敏的|adj.
+catastrophic|灾难的|adj.
+civil|市民的|adj.
+communal|公共的|adj.
+conservative|保守的|adj.
+considerable|相当大的|adj.
+contingent|视情况而定的|adj.
+controversial|有争议的|adj.
+demographic|人口统计的|adj.
+dental|牙科的|adj.
+disparate|不同的|adj.
+dominant|主导的|adj.
+dramatic|戏剧性的|adj.
+durable|持久的；耐用的|adj.
+ecofriendly|环保的|adj.
+elderly|年长的|adj.
+elusive|难以捉摸的|adj.
+established|已建立的|adj.
+ethical|道德的；伦理的|adj.
+exceptional|异常的|adj.
+exhausted|疲惫的|adj.
+explicit|明确的|adj.
+finite|有限的|adj.
+gifted|有天赋的|adj.
+harsh|严酷的；严厉的|adj.
+impressive|印象深刻的|adj.
+inaccurate|不准确的|adj.
+inactive|不活跃的|adj.
+inappropriate|不恰当的|adj.
+intense|强烈的|adj.
+interior|内部的|adj.
+introverted|内向的|adj.
+keen|热切的|adj.
+linguistic|语言的|adj.
+lopsided|不平衡的|adj.
+marine|海洋的|adj.
+meteorological|气象的|adj.
+nocturnal|夜间的|adj.
+offensive|冒犯的|adj.
+official|官方的|adj.
+ordinary|普通的|adj.
+paramount|最重要的|adj.
+patient|耐心的|adj.
+pessimistic|悲观的|adj.
+physical|身体的|adj.
+portable|便携的|adj.
+pressing|紧迫的|adj.
+radical|激进的|adj.
+religious|宗教的|adj.
+reluctant|不情愿的|adj.
+scenic|风景优美的|adj.
+subtle|微妙的|adj.
+suspicious|可疑的|adj.
+unbiased|公正的|adj.
+valuable|有价值的|adj.
+versatile|多功能的；多才多艺的|adj.
+violent|暴力的|adj.
+visible|可见的|adj.
+visual|视觉的|adj.
+erratically|不稳定地|adv.
+eventually|最终|adv.
+mainly|主要地|adv.
+solely|唯一地|adv.
+be consistent with|与...一致|phr.
+in accordance with|依照|phr.
+manage to do|设法完成|phr.
+out of the question|不可能|phr.
+plenty of|大量的|phr.
+refer to|涉及|phr.
+establish|建立|v.
+embed|嵌入|v.
+initial|最初的|adj.
+infancy|婴儿期；初期|n.
+pioneer|先驱；开拓|n./v.
+preliminary|初步的|adj.
+constitute|构成|v.
+emerge|出现|v.
+inherently|固有地|adv.
+spontaneous|自发的|adj.
+intention|意图|n.
+device|装置|n.
+aspect|方面|n.
+perspective|视角|n.
+ingredient|成分|n.
+appendage|附属物|n.
+segment|部分|n.
+hemisphere|半球|n.
+proportion|比例|n.
+comprise|包含|v.
+interact|互动|v.
+coordinate|协调；坐标|v./n.
+participant|参与者|n.
+intervention|干预|n.
+engage|参与|v.
+synthesis|合成|n.
+assembly|组装|n.
+compile|编译|v.
+site|地点|n.
+contemporary|当代的|adj.
+simultaneously|同时地|adv.
+existence|存在|n.
+persistent|持续的|adj.
+permanent|永久的|adj.
+endure|忍受|v.
+constantly|不断地|adv.
+undergo|经历|v.
+tolerate|容忍|v.
+periodic|周期性的|adj.
+orbit|轨道；环绕|n./v.
+essential|必要的|adj.
+substantial|实质的|adj.
+emphasis|强调|n.
+primarily|主要地|adv.
+vital|至关重要的|adj.
+crucial|关键的|adj.
+spectacular|壮观的|adj.
+astonishing|惊人的|adj.
+eminent|杰出的|adj.
+sufficient|充足的|adj.
+abundant|丰富的|adj.
+tremendous|极大的|adj.
+immense|无限的|adj.
+infinite|无穷的|adj.
+myriad|无数(的)|n./adj.
+aggressive|侵略性的；进取的|adj.
+debate|辩论|n./v.
+paradox|悖论|n.
+controversy|争议|n.
+contradict|矛盾|v.
+contrary|相反的；反面|adj./n.
+contrast|对比|n./v.
+reverse|逆转；相反的|v./n./adj.
+wobble|摇晃|v./n.
+vulnerable|易受伤害的|adj.
+seldom|很少|adv.
+eliminate|消除|v.
+insulate|隔离；绝缘|v.
+interval|间隔|n.
+margin|边缘；利润|n.
+ignorance|无知|n.
+investigate|调查|v.
+inspection|检查|n.
+detect|检测|v.
+perceive|察觉|v.
+perception|感知|n.
+ascertain|查明|v.
+insight|洞察力|n.
+comprehensive|全面的|adj.
+appreciate|欣赏；理解|v.
+demonstrate|证明；展示|v.
+apparent|明显的|adj.
+reveal|揭示|v.
+distinct|独特的|adj.
+definite|明确的|adj.
+illustrate|说明|v.
+depict|描绘|v.
+interpret|解释|v.
+implication|含义；暗示|n.
+convince|说服|v.
+diverse|多样的|adj.
+odd|奇怪的|adj.
+attribute|属性；归因于|n./v.
+unprecedented|前所未有的|adj.
+exotic|异国的|adj.
+patent|专利；获得专利|n./v.
+drastically|剧烈地|adv.
+intensive|密集的|adj.
+rigidly|严格地|adv.
+assess|评估|v.
+evaluate|评价|v.
+presumably|推测地|adv.
+assumption|假定|n.
+proposition|提议|n.
+speculate|推测|v.
+anticipate|预期|v.
+skeptical|怀疑的|adj.
+deduce|推断|v.
+abstract|抽象的；摘要|adj./n.
+notion|概念|n.
+constraint|约束|n.
+restrict|限制|v.
+confine|限制|v.
+interfere|干涉|v.
+distort|扭曲|v.
+extinction|灭绝|n.
+erosion|侵蚀|n.
+collapse|崩溃|v./n.
+dispose|处理|v.
+ultimate|最终的|adj.
+protest|抗议|v./n.
+equivalent|相等的；等价物|adj./n.
+identical|完全相同的|adj.
+consistent|一致的|adj.
+imitation|模仿|n.
+simulate|模拟|v.
+legislation|立法|n.
+conventional|传统的|adj.
+prevailing|流行的|adj.
+consensus|共识|n.
+conform|符合；遵守|v.
+corresponding|相应的|adj.
+approximately|大约|adv.
+virtually|几乎|adv.
+roughly|粗略地|adv.
+cultivate|培养|v.
+preserve|保护|v.
+advocate|提倡；倡导者|v./n.
+canopy|树冠|n.
+mature|成熟的；成熟|adj./v.
+enable|使能够|v.
+accommodate|容纳|v.
+facilitate|促进|v.
+provision|供应|n.
+nurture|培育|v.
+refine|精炼|v.
+enhance|增强|v.
+remedy|补救|n./v.
+bias|偏见|n./v.
+entitle|赋予权利|v.
+modify|修改|v.
+convert|转换|v.
+substitute|替代|v./n.
+exceed|超过|v.
+subsequent|随后的|adj.
+consecutive|连续的|adj.
+accompany|陪伴|v.
+descendant|后代|n.
+inherent|固有的|adj.
+ingenious|聪明的|adj.
+encyclopedia|百科全书|n.
+profound|深刻的|adj.
+sophisticated|复杂的|adj.
+dynamic|动态的|adj.
+resilience|韧性|n.
+stretch|伸展|v./n.
+discharge|释放|v./n.
+enthusiasm|热情|n.
+robust|强健的|adj.
+derive|源于|v.
+purchase|购买|v./n.
+embrace|拥抱；接受|v.
+gather|收集|v.
+excavate|挖掘|v.
+accessible|可进入的|adj.
+capable|有能力的|adj.
+appropriate|合适的；挪用|adj./v.
+proper|适当的|adj.
+viable|可行的|adj.
+flourish|繁荣|v.
+prospect|前景|n.
+convenient|方便的|adj.
+adequate|足够的|adj.
+desirable|理想的|adj.
+inevitably|不可避免地|adv.
+conduct|进行；行为|v./n.
+undertake|承担|v.
+implement|实施；工具|v./n.
+harness|利用；马具|v./n.
+dedicate|奉献|v.
+valid|有效的|adj.
+precise|精确的|adj.
+elaborate|详尽的；详细说明|adj./v.
+aboriginal|土著的；土著人|adj./n.
+inhabit|居住|v.
+adjacent|邻近的|adj.
+consequence|后果|n.
+consequent|随之发生的|adj.
+enforce|执行|v.
+phenomenon|现象|n.
+archaeologist|考古学家|n.
+obsession|痴迷|n.
+parasite|寄生虫|n.
+albeit|尽管|conj.
+encounter|遭遇|v./n.
+campaign|运动；发起运动|n./v.
+heritage|遗产|n.
+optimist|乐观主义者|n.
+terrestrial|陆地的|adj.
+circumstance|情况|n.
+crater|火山口|n.
+commodity|商品|n.
+gesture|手势；做手势|n./v.
+devote|奉献|v.
+scenario|情景|n.
+aesthetic|美学的|adj.
+atmosphere|大气；氛围|n.
