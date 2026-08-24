@@ -738,9 +738,7 @@
         const showEnglish = card.promptLanguage === "english";
         const needsEnglish = !showEnglish;
 
-        elements.wordDisplay.textContent = showEnglish
-          ? card.entry.english.replace(/-/g, " ")
-          : card.entry.chinese;
+        elements.wordDisplay.textContent = showEnglish ? card.entry.english : card.entry.chinese;
         elements.wordDisplay.classList.remove("is-empty");
         elements.directionLabel.textContent = showEnglish ? "英译中" : "中译英";
         elements.hint.textContent = showEnglish ? "请输入对应的中文意思" : "请输入对应的英文单词";
@@ -886,10 +884,14 @@
           const thirdColumn = details.match(new RegExp(`^(.+?)\\s+((?:${partOfSpeechPattern})(?:/${partOfSpeechPattern})*|-)$`, "i"));
           const chinese = thirdColumn ? thirdColumn[1].trim() : details;
           const partOfSpeech = thirdColumn ? thirdColumn[2] : "";
+          const english = match[1]
+            .trim()
+            .replace(/-/g, " ")
+            .replace(/\s+/g, " ");
 
           entries.push({
-            id: `${index}-${match[1]}-${chinese}`,
-            english: match[1].trim(),
+            id: `${index}-${english}-${chinese}`,
+            english,
             chinese,
             partOfSpeech
           });
